@@ -27,6 +27,6 @@ contacts:
       content:
             - other: 'A complaint may be lodged against a registered architect if he has contravened the provisions of the Architects Act.'
             - other: '<a href="/complaints/">View details</a>'
-
+            
 ---
 
