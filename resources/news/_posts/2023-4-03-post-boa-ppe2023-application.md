@@ -63,7 +63,7 @@ _**Notes:**_
 * Date of remittance 
 * Amount
 
-(6) All applications must reach BOA by **11 May 2023**. Incomplete applications will not be accepted.
+(6) All applications must reach BOA by **6pm on 11 May 2023**. Incomplete applications will not be accepted.
 
 (7) **Use of E-signatures**<br/>
 For the purpose of the application for examination, the Advisor, Supervisor, Employer and Character Referees can sign the following documents electronically: <br/>
