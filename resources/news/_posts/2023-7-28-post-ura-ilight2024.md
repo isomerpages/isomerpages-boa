@@ -8,7 +8,7 @@ permalink: "/resources/news/URA-iLight-2024-Open-Call"
 
 ### **i Light Singapore 2024 Open Call**
 
-![BOA Webinar Poster](/forms/iLight_2024_Open_Call.pdf)
+![URA i Light 2024 Poster](/forms/iLight_2024_Open_Call.pdf)
 
 Asia’s leading sustainable light festival will return for its 10th edition to showcase new and exciting light art installations at Marina Bay.
 
