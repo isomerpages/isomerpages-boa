@@ -22,8 +22,8 @@ For further information, download the Open Call document [here](https://www.ilig
 
 Fill in the Open Call application form [here](https://www.ilightsingapore.gov.sg/ilsg24-calls/open-call/) and submit by **3 September 2023, 2359hr GMT+8**.
 
-Website : https://www.ilightsingapore.gov.sg/</br>
-Facebook @ilightsingapore : https://www.facebook.com/ilightsingapore/</br>
-Instagram @ilightsingapore : https://www.instagram.com/ilightsingapore/</br>
-Tiktok @ilightsingapore : https://www.tiktok.com/@ilightsingapore</br>
+[Website](https://www.ilightsingapore.gov.sg/)</br>
+[Facebook @ilightsingapore](https://www.facebook.com/ilightsingapore/)</br>
+[Instagram @ilightsingapore](https://www.instagram.com/ilightsingapore/)</br>
+[Tiktok @ilightsingapore](https://www.tiktok.com/@ilightsingapore/)
  
