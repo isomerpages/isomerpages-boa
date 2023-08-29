@@ -39,7 +39,7 @@ Sample template of the Log Sheet (Log Book can be purchased from BOA at $16 each
 
 **B) Professional Interview under Section 15(2)(b) of the Architects Act**
 
-Applicant must have, after obtaining his qualifications, acquired not less than 2 years of such practical experience in architectural work as may be prescribed or approved by the Board (including practical experience in architectural work in Singapore for a continuous period of at least 12 months).
+Applicant must have, after obtaining his/her qualifications, acquired at least 5 years of such practical experience in architectural work as may be recognised by the Board (including not less than 2 years of the prescribed practical experience in architectural work in Singapore with a continuous period of at least 12 months of such prescribed practical experience being acquired within the 5 years immediately preceding the date of the person’s application for registration under this Act)
 
 Guidelines:
 
@@ -54,7 +54,7 @@ Application forms:
 
 **C) Professional Interview under Section 15(2)(c) of the Architects Act**
 
-Applicant must have, after obtaining his qualifications:
+Applicant must have, after obtaining his/her qualifications:
 (i)	acquired not less than 10 years of such practical experience in architectural work as may be recognised by the Board;
 (ii)	received any commendation or award at any international architectural event, or from any professional body whose architectural degree or qualification is recognised by the Board.
 
