@@ -39,8 +39,7 @@ permalink: /resources/news/boa-circular-restrictions-job-titles
 - Architectural Graduate
 - Architectural Associate 
 - Architectural Designer or Designer (Architecture)
-- Architectural Assistant
-- Architectural Coordinator <br/>
+- Architectural Assistant <br/>
 unless <br/> 
 (a) the person’s job is under a contract of service or contract for service to an ‘architectural practice’ (as defined in section 2 of the Architects Act or a registered Foreign Architect pursuant to sub-sections 15(2A) & (2B) of the Architects Act), and <br/>
 (b) the person has appropriate educational qualifications to support such a title*.
