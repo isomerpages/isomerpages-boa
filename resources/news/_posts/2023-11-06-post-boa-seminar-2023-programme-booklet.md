@@ -12,4 +12,4 @@ permalink: /resources/news/BOA-Seminar-2023-Programme-Booklet
 
 ![BOA Seminar 2023 Programme Booklet](/images/Programme_Booklet_Cover_2023.JPG)
 
-Click [here]({{site.baseurl}}/forms/Programme_Booklet_BOA_Seminar_2023.pdf) for the Programme Booklet.
+Click [here]({{site.baseurl}}/files/Programme_Booklet_BOA_Seminar_2023.pdf) for the Programme Booklet.
