@@ -103,7 +103,7 @@ Application forms:
 
 i) Application for a Licence:
 
-[Form of application for licence]({{site.baseurl}}/files/forms/Licence.pdf)
+[Form of application for licence]({{site.baseurl}}/forms/Licence.pdf)
 
 [Form of application for licence - Word doc]({{site.baseurl}}/forms/Licence.docx)
 
