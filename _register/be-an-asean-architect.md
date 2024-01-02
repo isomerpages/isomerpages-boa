@@ -14,7 +14,7 @@ To become an ASEAN architect, one must have:
 
 * a current and valid professional registration or licensing certificate to practise architecture in the Country of Origin issued either by the Professional Regulatory Authority of the ASEAN Member Countries and in accordance with its policy on registration/licensing/certification of the practice of architecture or the Monitoring Committee;
 
-* acquired practical and diversified experience of not less than ten years of continuous practice of architecture after graduation, of which at least five years shall be after licensure/registration and at least two years of which shall be in responsible charge of significant architectural works; 
+* acquired practical and diversified experience of not less than seven (7) years of continuous practice of architecture after graduation, of which at least five (5) years shall be after licensure/registration and at least two (2) years of which shall be in responsible charge of significant architectural works; 
 
 * complied with the Continuing Professional Development policy of the country of origin at a satisfactory level; 
 

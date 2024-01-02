@@ -23,7 +23,7 @@ Guidelines:
 
 Application forms:
 
-[Registration Form for PPE candidate]({{site.baseurl}}/files/registration_ppe.pdf)
+[Registration Form for PPE candidate]({{site.baseurl}}/forms/Registration_as_PPE_Candidate.pdf)
 
 [Agreement to be PPE Supervisor & Advisor]({{site.baseurl}}/files/agreement_ppe_supervisor.pdf)
 
@@ -83,7 +83,7 @@ Applicants are required to attend a compulsory Pre-submission Briefing before ap
 
 Guidelines:
 
-[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_Updated_2023.pdf) 
+[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_Updated_2024.pdf) 
 
 Application forms:
 
@@ -103,9 +103,9 @@ Application forms:
 
 i) Application for a Licence:
 
-[Form of application for licence]({{site.baseurl}}/files/Form 6 - Application for a Licence Revised.pdf)
+[Form of application for licence]({{site.baseurl}}/files/forms/Licence.pdf)
 
-[Form of application for licence - Word doc]({{site.baseurl}}/files/Form_6_ Application_for_a_Licence_revised.doc)
+[Form of application for licence - Word doc]({{site.baseurl}}/forms/Licence.docx)
 
 ii) Statutory Declaration Form:
 
