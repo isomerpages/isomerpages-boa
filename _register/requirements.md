@@ -23,11 +23,13 @@ Applicants must possess the following academic qualification required under Sect
 
 * other proper and recognised training in architecture that satisfies the Board and the passing of oral or written examinations prescribed by the Board.
 
+Applicants are required to complete a minimum of five (5) years full-time on campus architectural degree programme to qualify for registration in Singapore. 
+
 ### **Appropriate practical experience in architectural work**
 
 After obtaining the approved academic qualification, the applicant must also acquire the following practical experience in architectural work under Section 15(2):
 
-* At least two years of practical experience in architectural work, includig a continuous period of at least 12 months of architectural work in Singapore and to pass the professional practice examination prescribed or approved by the Board [under Section 15(2)(a)]; or
+* At least two years of practical experience in architectural work, including a continuous period of at least 12 months of architectural work in Singapore and to pass the professional practice examination prescribed or approved by the Board [under Section 15(2)(a)]; or
 
 * At least five years of practical experience in architectural work. This must include at least two years of prescribed practical experience in architectural work in Singapore, with a continuous period of at least 12 months gained within the five years immediately before the date of application for registration and to pass the oral or written examination prescribed by the Board [under Section 15(2)(b)].
 
