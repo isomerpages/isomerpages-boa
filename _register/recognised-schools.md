@@ -248,7 +248,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>The Queen’s University of Belfast (from 1994)</td>
-		<td>Bachelor of Architecture</td>
+		<td>1. Master of Architecture<br> 2. Bachelor of Architecture (Historic)</td>
 	</tr>
 	<tr>
 		<td>Queen’s College of Belfast (up to 1980)</td>
