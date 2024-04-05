@@ -96,16 +96,16 @@ Application forms:
 
 **A) Application for Approval/Change of firm's name and Change of firm type**
 
-[Application for approval of firm's name]({{site.baseurl}}/files/approval_of_firm_s_name.pdf)
+[Application for approval of firm's name]({{site.baseurl}}/forms/approval_of_firm_s_name.pdf)
 
 
 **B) Apply for licence to supply architectural services**
 
 i) Application for a Licence:
 
-[Form of application for licence]({{site.baseurl}}/forms/Licence.pdf)
+[Form of application for licence]({{site.baseurl}}/forms/form_6_application_for_a_licence.pdf)
 
-[Form of application for licence - Word doc]({{site.baseurl}}/forms/Licence.docx)
+[Form of application for licence - Word doc]({{site.baseurl}}/forms/form_6_application_for_a_licence.docx)
 
 ii) Statutory Declaration Form:
 
