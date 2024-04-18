@@ -92,6 +92,18 @@ Application forms:
 [Pre-submission Briefing Form]({{site.baseurl}}/files/presubmission_briefing_form.pdf)
 
 
+**F) Application for Practising Certificate**
+
+Where a registered architect desires to engage in the practice of architecture in Singapore after 31 December of any year, he or she must, not later than 1 December of that year and in such form and manner as may be prescribed, apply for a practising certificate authorising him or her to engage in the practice of architecture in the succeeding year.
+With effect from 2024, the applications for practicing certificates are to be submitted via the online [online application form](https://form.gov.sg/6510e630020dec0012179353) and architects will no longer receive a physical application form.
+
+Payment for the application can be made via **PayNow** or **bank transfer**. You may refer to the instructions on BOA’s [website]( https://www.boa.gov.sg/files/Instructions_PayNow_Internet_Banking.pdf). You will be required to upload the proof of payment for the online application form.
+
+_**Additional fee for late application**_
+
+Where an application for a practising certificate authorising the holder thereof to engage in the practice of architecture during any year or part thereof is made on or after 1st January of that year or after 1st December of the previous year, a late application fee of **$50/-** must accompany and be payable in respect of that application, and such late application fee shall not be refundable.
+
+
 ### **Part II - For firms**
 
 **A) Application for Approval/Change of firm's name and Change of firm type**
