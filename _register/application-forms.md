@@ -95,9 +95,9 @@ Application forms:
 **F) Application for Practising Certificate**
 
 Where a registered architect desires to engage in the practice of architecture in Singapore after 31 December of any year, he or she must, not later than 1 December of that year and in such form and manner as may be prescribed, apply for a practising certificate authorising him or her to engage in the practice of architecture in the succeeding year.
-With effect from 2024, the applications for practicing certificates are to be submitted via the online [online application form](https://form.gov.sg/6510e630020dec0012179353) and architects will no longer receive a physical application form.
+With effect from 2024, the applications for practicing certificates are to be submitted via the [online application form](https://form.gov.sg/6510e630020dec0012179353) and architects will no longer receive a physical application form.
 
-Payment for the application can be made via **PayNow** or **bank transfer**. You may refer to the instructions on BOA’s [website]( https://www.boa.gov.sg/files/Instructions_PayNow_Internet_Banking.pdf). You will be required to upload the proof of payment for the online application form.
+Payment for the application can be made via **PayNow** or **bank transfer**. You may refer to BOA’s [website]( https://www.boa.gov.sg/files/Instructions_PayNow_Internet_Banking.pdf) for the payment instructions. Please note that applicants are required to upload the proof of payment to the online application form.
 
 _**Additional fee for late application**_
 
@@ -172,6 +172,6 @@ Sample templates:
 
 ### **Available Payment Methods**
 
-In view of the COVID-19 situation, architects and applicants can make payment to BOA via cheque, PayNow and internet banking. Please refer to the following instructions for payment via PayNow and internet banking:
+We accept payment via **PayNow** and **internet banking**. Please refer to the following instructions for payment via PayNow and internet banking:
 
 [Instructions for PayNow and Internet Banking]({{site.baseurl}}/files/Instructions_PayNow_Internet_Banking.pdf)
