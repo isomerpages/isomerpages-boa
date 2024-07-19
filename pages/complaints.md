@@ -34,9 +34,7 @@ Your letter of complaint should include:
 
 * the full name of the architect(s) complained against and name(s) of his practice or firm(s); 
 
-* supporting documents to substantiate your complaint, e.g. building plans, submissions, photographs or other relevant documents;
-
-* specific clause(s) in The Schedule (Code of Professional Conduct and Ethics) of the Architects Act which the Architect had contravened. Refer to the [Rules & laws section](/who-we-are/rules-and-laws/) to help you identify the clause(s) which the architect had contravened; and
+* supporting documents to substantiate your complaint, e.g. building plans, submissions, photographs or other relevant documents; and
 
 * a Statutory Declaration (SD). The SD is a written statement of facts which is signed and affirmed by you that the contents in the complaint are true and accurate to the best of your knowledge and belief. The SD must be affirmed before a Commissioner for Oaths. It is an offence to submit a false SD. 
 
