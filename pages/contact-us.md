@@ -20,7 +20,6 @@ image-url: null
 contacts:
     - title: 'General Enquiries & Feedback'
       content:
-            - phone: '+65 6222 5295'
             - email: BOA_Enquiry@boa.gov.sg
     - title: 'Make a complaint'
       content:
