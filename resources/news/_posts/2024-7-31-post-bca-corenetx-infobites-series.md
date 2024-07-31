@@ -15,4 +15,6 @@ permalink: "/resources/news/corenetx-infobites"
 
 ![CORENET X Infobites 2 P2](/images/CorenetX_Infobites2_P2.jpg)
 
-Please refer to BCA’s website for more information: https://www1.bca.gov.sg/regulatory-info/building-control/corenet-x
+Please refer to BCA’s website for more information: 
+[www1.bca.gov.sg/regulatory-info/building-control/corenet-x](https://www1.bca.gov.sg/regulatory-info/building-control/corenet-x)
+
