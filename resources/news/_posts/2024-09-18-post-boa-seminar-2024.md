@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BOA Presentation Ceremony and Seminar 2024, 15 Oct 2024'
+title: 'BOA Presentation Ceremony and Seminar 2024 (Registration Closed)'
 date: 2024-09-18
 permalink: /resources/news/boa-seminar-2024
 
@@ -11,6 +11,8 @@ permalink: /resources/news/boa-seminar-2024
 ### **BOA PRESENTATION CEREMONY AND SEMINAR 2024, 15 OCTOBER 2024** <br/>
 
 **BLUEPRINT AND BEYOND: NAVIGATING THE FUTURE OF ARCHITECTURE IN A CHANGING WORLD** <br/>
+
+_**Update: Registration for the seminar is now closed due to overwhelming response. Thank you for your support!**_
 
 The Board of Architects (BOA) will be holding our annual Seminar in conjunction with the 2024 Certificate Presentation Ceremony on **15 Oct 2023 (Tue)** at **8:00am** at the **Grand Ballroom, One Farrer Hotel, 1 Farrer Park Station Road, Singapore 217562**. <br/>
 
