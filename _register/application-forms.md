@@ -123,7 +123,7 @@ Sample template:
 **A) Apply for Practising Certificate**
 
 Where a registered architect desires to engage in the practice of architecture in Singapore after 31 December of any year, he or she must, not later than 1 December of that year and in such form and manner as may be prescribed, apply for a practising certificate authorising him or her to engage in the practice of architecture in the succeeding year.
-With effect from 2024, the applications for practicing certificates are to be submitted via the [online application form](https://form.gov.sg/6510e630020dec0012179353) and architects will no longer receive a physical application form.
+With effect from 2024, the applications for practicing certificates are to be submitted via the [online application form](https://go.gov.sg/boa-application-for-pc-2025) and architects will no longer receive a physical application form.
 
 Payment for the application can be made via **PayNow** or **bank transfer**. You may refer to BOA’s [website]( https://www.boa.gov.sg/files/Instructions_PayNow_Internet_Banking.pdf) for the payment instructions. Please note that applicants are required to upload the proof of payment to the online application form.
 
