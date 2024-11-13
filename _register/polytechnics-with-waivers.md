@@ -22,7 +22,7 @@ Polytechnic graduates from the following two courses may be granted up to two ye
 </tr>
 <tr>
 <td>Nanyang Polytechnic</td>
-<td>Diploma in Architecture (From the 2024 graduating batch)</td>
+<td>Diploma in Architecture</td>
 </tr>
 </table>
 
