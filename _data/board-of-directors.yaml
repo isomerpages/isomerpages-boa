@@ -21,19 +21,19 @@
   image-url: /images/Fun Siew Leng.jpg
 - name: Ar. Khairudin Saharom
   title: Member
-  organisation: Kite Studio Architecture Pte
+  organisation: Kite Studio Architecture Pte Ltd
   image-url: /images/Khai.jpg
-  - name: Ar. Lai Teck Chuan Richard
+- name: Ar. Lai Teck Chuan Richard
   title: Member
   organisation: ADDP Architects LLP
   image-url: /images/RichardLai_2025.jpg
-  - name: Ar. Loh Ju-Hon
+- name: Ar. Loh Ju-Hon
   title: Member
   organisation: Defence Science & Technology Agency 
   image-url: /images/LohJuHon_2025.jpg
-  - name: Ar. Ng Lye Hock Larry
+- name: Ar. Ng Lye Hock Larry
   title: Member 
-  organisation: -
+  organisation:
   image-url: /images/LarryNg_2025.PNG
 - name: Ar. Ng San Son
   title: Member
@@ -47,7 +47,7 @@
   title: Member
   organisation: Architects 61 Pte Ltd
   image-url: /images/UnWaiKay_2025.jpg
-- name: Ar. Tan Hua Jin Melvin
+- name: Ar. Tan Hua Jin, Melvin
   title: Member
   organisation: LAUD Architects Pte Ltd
   image-url: /images/MelvinTan2022.jpg
@@ -62,4 +62,4 @@
 - name: Ar. Tracey Hwang Li Shih
   title: Registrar, Board of Architects
   organisation: Urban Redevelopment Authority
-  image-url: /images/TraceyHwang.jpg 
+  image-url: /images/TraceyHwang.jpg
