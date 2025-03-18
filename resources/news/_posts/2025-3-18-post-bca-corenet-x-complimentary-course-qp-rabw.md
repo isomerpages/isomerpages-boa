@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Complimentary Introductory Course (Online) for CORENET X"
-date: 2025-03-19
+date: 2025-03-18
 permalink: "/resources/news/corenet-x-complimentary-course-rabw"
 ---
-19 Mar 2025
+18 Mar 2025
 
 ### **Complimentary Introductory Course (Online) for CORENET X**
 
