@@ -25,7 +25,7 @@ permalink: /resources/news/boa-professional-practice-examination-2025
 _The following documents must be mailed to the Board of Architects at 5 Maxwell Road # 01-03 Tower Block MND Complex Singapore 069110 **via post**. Do **not** drop the application off at our counter or email it to BOA._
 
 (i) [Application form for admission to PPE 2025]({{site.baseurl}}/forms/Application_form_for_PPE_2025.pdf) <br/> 
-(ii) [Application for registration as an Architect]({{site.baseurl}}/files/form_1_application_for_registration.pdf) <br/>
+(ii) [Application for registration as an Architect]({{site.baseurl}}/forms/Form_1_Application_for_Registration.pdf) <br/>
 (iii) [Acknowledgement form for BOA Circular on Subsidy for Architectural Practice Course]({{site.baseurl}}/forms/BOA_Circular_Subsidy_for_APC_Course_2025.pdf) <br/>
 (iv) 2 copies of qualification papers (such as degree, diploma etc.) <br/>
 (v) 2 copies of transcript for the above degree/diploma (showing subjects and examination results) <br/>
@@ -62,7 +62,7 @@ _**Notes:**_
 * Date of remittance 
 * Amount
 
-(6) All applications must reach BOA by **15 May 2025**. Incomplete applications will not be accepted.
+(6) All applications must reach BOA by **5pm on 15 May 2025**. Incomplete applications will not be accepted.
 
 (7) **Use of E-signatures**<br/>
 For the purpose of the application for examination, the Advisor, Supervisor, Employer and Character Referees can sign the following documents electronically: <br/>
@@ -70,5 +70,5 @@ For the purpose of the application for examination, the Advisor, Supervisor, Emp
 * Case study <br/>
 * Letters confirming the review of the case study (Supervisor/Advisor) <br/>
 * Letter confirming approval of the case study (Employer) <br/>
-*Character reference letters 
+* Character reference letters 
 
