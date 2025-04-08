@@ -14,7 +14,7 @@ permalink: /resources/news/boa-professional-practice-examination-2025
 
 (2) Graduates from the National University of Singapore (NUS), the Singapore University of Technology and Design (SUTD) and other recognised Schools of Architecture, who wish to sit for the examination must have registered as Professional Practice Examination Candidates and obtained not less than twenty-four (24) months of practical experience in architectural work. This should include practical experience in architectural work in Singapore for a continuous period of at least twelve (12) months. 
 
-(3) All candidates are required to attend an **Architectural Practice Course** which will be conducted by the Singapore Institute of Architects (SIA) on behalf of the Board.  They can contact [SIA](https://www.sia.org.sg/) directly on this matter. Candidates are required to attain 75% attendance for the entire course to be eligible to sit for examination.
+(3) All candidates are required to attend an **Architectural Practice Course** which will be conducted by the Singapore Institute of Architects (SIA) on behalf of the Board.  They can contact [The Architects Academy](https://www.the-architects-academy.com/) directly on this matter. Candidates are required to attain 75% attendance for the entire course to be eligible to sit for examination.
 
 (4) The Oral Examination will be conducted in the first quarter of 2026. Only invited candidates will be notified.
 
