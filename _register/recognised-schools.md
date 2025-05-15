@@ -226,7 +226,7 @@ The following international programmes and schools are recognised by the Board:
 	</tr>
 	<tr>
 		<td>University of Strathclyde</td>
-		<td>1. Post-Graduate Diploma<br> 2. Master of Architecture in Advanced Architectural Studies</td>
+		<td>1. Post-Graduate Diploma in Advanced Architecture Design <br> 2. Master of Architecture in Advanced Architectural Design</td>
 	</tr>
 	<tr>
 		<th colspan="2">WALES</th>
