@@ -25,7 +25,7 @@ sections:
           subtitle: Resources
           button: 'More Resources'
           url: resources/
-notification: "\n Please beware of phishing or scam attempts. BOA will never ask or request for your personal details via SMS notifications and / or automated phone messages. For any queries / feedback, please email to BOA_Enquiry@boa.gov.sg. <br> BOA’s service counter will be operating by appointments. Public may email your query to BOA_Enquiry@boa.gov.sg. <br> All application forms (eg. Practising Certificates, Company Licence, Firm Name Applications, Exam Applications etc.) and documents are to be mailed to the following address via post: <br> Board of Architects, 5 Maxwell Road, #01-03 Storey Tower Block, MND Complex, Singapore 069110\n"
+notification: "\n We will **NEVER** ask you to transfer money or disclose bank log-in details over a phone call, letter, email or a text message. Call the 24/7 [ScamShield](https://www.scamshield.gov.sg/) Helpline at 1799 if you are unsure if something is a scam. <br> BOA’s service counter will be operating by appointments. Public may email your query to BOA_Enquiry@boa.gov.sg. <br> All application forms (eg. Company Licence, Firm Name Applications, Exam Applications etc.) and documents are to be mailed to the following address via post: <br> Board of Architects, 5 Maxwell Road, #01-03 Storey Tower Block, MND Complex, Singapore 069110\n"
 
 ---
 
