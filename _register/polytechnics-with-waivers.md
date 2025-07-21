@@ -24,7 +24,12 @@ Polytechnic graduates from the following two courses may be granted up to two ye
 <td>Nanyang Polytechnic</td>
 <td>Diploma in Architecture</td>
 </tr>
+<tr>
+<td>Ngee Ann Polytechnic</td>
+<td>Diploma in Design (Architecture Specialisation)</td>
+</tr>
 </table>
+
 
 
 
