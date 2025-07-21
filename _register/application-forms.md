@@ -103,9 +103,9 @@ Application forms:
 
 i) Application for a Licence:
 
-[Form of application for licence]({{site.baseurl}}/forms/form_6_application_for_a_licence.pdf)
+[Form of application for licence]({{site.baseurl}}/forms/form_6_application_for_a_licence_2025.pdf)
 
-[Form of application for licence - Word doc]({{site.baseurl}}/forms/form_6_application_for_a_licence.docx)
+[Form of application for licence - Word doc]({{site.baseurl}}/forms/form_6_application_for_a_licence_2025.docx)
 
 ii) Statutory Declaration Form:
 
