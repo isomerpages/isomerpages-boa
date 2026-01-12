@@ -83,14 +83,13 @@ Applicants are required to attend a compulsory Pre-submission Briefing before ap
 
 Guidelines:
 
-[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_Updated_2025.pdf) 
+[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_Updated_2026.pdf) 
 
 Application forms:
 
 [Application form for Confirmatory Examination under Section 15(1)(c)]({{site.baseurl}}/files/application_15_1_c.pdf)
 
-[Pre-submission Briefing Form]({{site.baseurl}}/files/presubmission_briefing_form.pdf)
-
+Pre-submission Briefing Form: Register [here](https://go.gov.sg/1c-presubmission-briefing)
 
 ### **Part II - For firms**
 
@@ -124,9 +123,9 @@ Sample template:
 
 Where a registered architect desires to engage in the practice of architecture in Singapore after 31 December of any year, he or she must, not later than 1 December of that year and in such form and manner as may be prescribed, apply for a practising certificate authorising him or her to engage in the practice of architecture in the succeeding year.
 
-With effect from 2024, the applications for practicing certificates are to be submitted via an online application form and architects will no longer receive a physical application form.
+With effect from 2024, the applications for practicing certificates are to be submitted via an online application form and architects will no longer receive a physical application form. 
 
-Application for Practising Certificate **2025**: Click [here](https://go.gov.sg/boa-application-for-pc-2025)
+With effect from 2026, physical Practising Certificates will no longer be issued. Registered architects who have applied for a Practising Certificate and have fulfilled the renewal requirements will be issued an e-Certificate via email.
 
 Application for Practising Certificate **2026**: Click [here](https://go.gov.sg/boa-application-for-pc-2026)
 
