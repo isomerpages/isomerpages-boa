@@ -1,4 +1,4 @@
-------
+---
 layout: post
 title: "Recognition of Strategic Leadership and Business-related Courses under the CPD Framework"
 date: 2026-01-23
@@ -6,7 +6,7 @@ permalink: "/resources/news/cpdframework"
 ---
 23 Jan 2026
 
-### *Recognition of Strategic Leadership and Business-related Courses under the CPD Framework**
+### *Recognition of Strategic Leadership and Business-related Courses under the CPD Framework*
 
 The Board of Architects (BOA) will, with effect from this year, allow the recognition of selected strategic leadership and business-related courses under the Continuing Professional Development (CPD) framework. This is intended to support the professional development of architects by strengthening leadership capabilities, management skills and business acumen, which are increasingly relevant in the practice environment. <br/>
 
@@ -28,4 +28,4 @@ BOA will continue to review the CPD framework to ensure its relevance to the pro
 Ar. Tracey Hwang<br/>
 Registrar<br/>
 Board of Architects
-**
+
