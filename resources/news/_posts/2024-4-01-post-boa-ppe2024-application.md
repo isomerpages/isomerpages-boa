@@ -39,7 +39,7 @@ _Candidates are required to upload the soft copy of the following documents onto
 (i) Practical Experience Logbook <br/>
 (ii) Professional Case Study 
 
-**Please refer to [Annex A]({{site.baseurl}}/files/Annex_A_Notes_PPE2024.pdf) for the “Notes for Submission of the Log Book and Professional Case Study”.** 
+**Please refer to [Annex A]({{site.baseurl}}/files/annex_a_notes_ppe2024.pdf) for the “Notes for Submission of the Log Book and Professional Case Study”.** 
 
 **(C) Fees payable:**
     
@@ -52,7 +52,7 @@ _**Notes:**_
 
 (a) Examination fees are not refundable. <br/>
 (b) Payment can now be made via PayNow and Internet Banking.
-(c) Please refer to our [website](https://www.boa.gov.sg/files/Instructions_PayNow_Internet_Banking.pdf) for the instructions for making payment via PayNow or Internet Banking.<br/> 
+(c) Please refer to our [website](https://www.boa.gov.sg/files/instructions_paynow_internet_banking.pdf) for the instructions for making payment via PayNow or Internet Banking.<br/> 
 (d) Candidates who are making payment via PayNow or Internet Banking are required to take note of the following: <br/>
 (i) In the comments section, indicate your name followed by your contact number. For eg. _Aloysius Wong 91234567_<br/> 
 (ii) Take a screenshot of the completed transaction and email it to boa_enquiry@boa.gov.sg. <br/>

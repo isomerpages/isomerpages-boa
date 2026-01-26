@@ -22,7 +22,7 @@ Sustainability has become a top priority among decision-makers in our current gl
 
 As seats for the seminar are limited, we would like to encourage you to register for the Seminar before **4 Oct 2024**. All participants will be given **8 CPD points** for attendance. <br/>
 
-Please refer to the [Circular]({{site.baseurl}}/files/Circular_BOA_Seminar_2024.pdf) for more information on the registration fees and payment methods available. <br/>    
+Please refer to the [Circular]({{site.baseurl}}/files/circular_boa_seminar_2024.pdf) for more information on the registration fees and payment methods available. <br/>    
 
 Please register via this [online application form]( https://go.gov.sg/boa-seminar-2024). <br/>
 

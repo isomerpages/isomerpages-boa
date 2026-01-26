@@ -11,4 +11,4 @@ permalink: /resources/news/joint_circular_from_boa_and_peb_on_submission_of_buil
 
 ### **Joint Circular from BOA and PEB to Registered Architects and Professional Engineers on Submission of Building Plans**
 
-[Joint_BOA_PEB_Circular_17_Feb_2020.pdf](/files/Joint_BOA_PEB_Circular_17_Feb_2020.pdf)
+[Joint_BOA_PEB_Circular_17_Feb_2020.pdf](/files/joint_boa_peb_circular_17_feb_2020.pdf)

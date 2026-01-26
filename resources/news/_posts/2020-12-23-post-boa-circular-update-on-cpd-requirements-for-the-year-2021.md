@@ -18,7 +18,7 @@ In April 2020, BOA announced a one-off special waiver of the CPD requirements fo
 
 As part of our continued efforts to support our architects in this difficult time, we would like to announce that the CPD requirements will be halved in the year 2021. Please refer to the table below for more information.
 
-![CPD Point Requirement](/images/CPD_Table_2021.jpg)
+![CPD Point Requirement](/images/cpd_table_2021.jpg)
 
 **Allocation of CPD points for courses & seminars**
 
@@ -37,7 +37,7 @@ Yours sincerely
 
 **REGISTRAR**
 
-[Copy of BOA Circular – Update on CPD Requirements for the year 2021]({{site.baseurl}}/files/BOA_Circular_Update_CPD_Requirement_2021.pdf)
+[Copy of BOA Circular – Update on CPD Requirements for the year 2021]({{site.baseurl}}/files/boa_circular_update_cpd_requirement_2021.pdf)
 
 
 

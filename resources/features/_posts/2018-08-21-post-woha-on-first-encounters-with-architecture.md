@@ -9,7 +9,7 @@ permalink: /resources/features/woha-on-first-encounters-with-architecture/
 
 ### **Living the dream**
 
-![Architects Wong Mun Summ and Phua Hong Wei in their office](/images/features-WOHA.jpg)
+![Architects Wong Mun Summ and Phua Hong Wei in their office](/images/features-woha.jpg)
 © URA
 
 *By Justin Zhuang*

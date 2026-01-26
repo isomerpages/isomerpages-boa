@@ -8,7 +8,7 @@ permalink: /resources/news/boa-webinar-series-arc-studio/
 
 ### **BOA Webinar Series: Dialogue with Khoo Peng Beng and Belinda Huang of ARC Studio Architecture + Urbanism, 29 Jul 2021**
 
-![BOA Webinar Poster](/images/BOA_Webinar_290721.jpg)
+![BOA Webinar Poster](/images/boa_webinar_290721.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA has launched a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

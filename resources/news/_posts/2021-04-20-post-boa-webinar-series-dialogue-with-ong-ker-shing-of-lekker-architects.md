@@ -10,7 +10,7 @@ permalink: /resources/news/boa-webinar-series-ong-ker-shing/
 
 ### **BOA Webinar Series: Dialogue with Ong Ker-Shing of Lekker Architects, 24 May 2021**
 
-![BOA Webinar Poster](/images/BOA_Webinar_240521.jpg)
+![BOA Webinar Poster](/images/boa_webinar_240521.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA has launched a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

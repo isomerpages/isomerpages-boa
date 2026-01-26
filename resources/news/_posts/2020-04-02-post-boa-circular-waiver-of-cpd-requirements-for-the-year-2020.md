@@ -27,4 +27,4 @@ Yours sincerely
 
 **REGISTRAR**
 
-[Copy of BOA Circular – Waiver of CPD Requirements for the year 2020]({{site.baseurl}}/files/BOA_Circular_CPD_Waiver_2020.pdf)
+[Copy of BOA Circular – Waiver of CPD Requirements for the year 2020]({{site.baseurl}}/files/boa_circular_cpd_waiver_2020.pdf)

@@ -21,7 +21,7 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
-favicon: /images/favicon-BOA.ico
+favicon: /images/favicon-boa.ico
 google_analytics: null
 permalink: none
 baseurl: ""

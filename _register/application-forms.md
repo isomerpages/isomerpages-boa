@@ -17,9 +17,9 @@ Please note that we do not accept walk-in applications or applications received 
 
 Guidelines:
 
-[Download guide for PPE Candidates]({{site.baseurl}}/files/General_Info_for_PPE_candidates_Updated_2022.pdf)
+[Download guide for PPE Candidates]({{site.baseurl}}/files/general_info_for_ppe_candidates_updated_2022.pdf)
 
-[Criteria for appointment of Advisors to PPE Candidate]({{site.baseurl}}/files/circular_on_PPE_advisor.pdf)
+[Criteria for appointment of Advisors to PPE Candidate]({{site.baseurl}}/files/circular_on_ppe_advisor.pdf)
 
 Application forms:
 
@@ -35,7 +35,7 @@ Quarterly Assessment Reports:
 
 Sample template of the Log Sheet (Log Book can be purchased from BOA at $16 each):
 
-[Sample template of logsheet]({{site.baseurl}}/files/BOA_PPE_Logsheet_Template.pdf)
+[Sample template of logsheet]({{site.baseurl}}/files/boa_ppe_logsheet_template.pdf)
 
 **B) Professional Interview under Section 15(2)(b) of the Architects Act**
 
@@ -83,7 +83,7 @@ Applicants are required to attend a compulsory Pre-submission Briefing before ap
 
 Guidelines:
 
-[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/Guidelines_for_Section_15(1)(c)_Updated_2026.pdf) 
+[Guidelines for Application Applying for Registration for the Confirmation Examination - 15(1)(c)]({{site.baseurl}}/files/guidelines_for_section_15(1)(c)_updated_2026.pdf) 
 
 Application forms:
 
@@ -151,14 +151,14 @@ Sample of a Practising Certificate:
 
 **A) Apply to be an ASEAN architect**
 
-[ASEAN Architect Registration Form (For Singapore Registered Architects)]({{site.baseurl}}/files/ASEAN_Architect_Registration_Form_SG.pdf)
+[ASEAN Architect Registration Form (For Singapore Registered Architects)]({{site.baseurl}}/files/asean_architect_registration_form_sg.pdf)
 
 
 **B) Apply to be an APEC architect**
 
-[APEC Architect Registration Form (For Singapore Registered Architects)]({{site.baseurl}}/files/APEC_Architect_Application_Form_SG.pdf)
+[APEC Architect Registration Form (For Singapore Registered Architects)]({{site.baseurl}}/files/apec_architect_application_form_sg.pdf)
 
-[APEC Architect Registration Form(For Foreign Architects)]({{site.baseurl}}/files/APEC_architect_registration_form_foreign.pdf)
+[APEC Architect Registration Form(For Foreign Architects)]({{site.baseurl}}/files/apec_architect_registration_form_foreign.pdf)
 
 
 ### **Part V - For Foreign Architects**
@@ -171,4 +171,4 @@ Sample of a Practising Certificate:
 
 We accept payment via **PayNow** and **internet banking**. Please refer to the following instructions for payment via PayNow and internet banking:
 
-[Instructions for PayNow and Internet Banking]({{site.baseurl}}/files/Instructions_PayNow_Internet_Banking.pdf)
+[Instructions for PayNow and Internet Banking]({{site.baseurl}}/files/instructions_paynow_internet_banking.pdf)

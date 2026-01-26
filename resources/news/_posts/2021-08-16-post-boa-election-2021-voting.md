@@ -20,35 +20,35 @@ If you have enquiries or require any assistance in voting, please email to our o
 
 The 15 candidates standing for election (in alphabetical order) are as shown below:
 
-![Ang Kong Siong Tony](/images/BOA_Election_Nominee_Tony_Ang.jpg)
+![Ang Kong Siong Tony](/images/boa_election_nominee_tony_ang.jpg)
 
-![Benger Darren Peter](/images/BOA_Election_Nominee_Benger_Darren.jpg)
+![Benger Darren Peter](/images/boa_election_nominee_benger_darren.jpg)
 
-![Catherine Loke](/images/BOA_Election_Nominee_Catherine_Loke.jpg)
+![Catherine Loke](/images/boa_election_nominee_catherine_loke.jpg)
 
-![Cheah Kok Ming](/images/BOA_Election_Nominee_Cheah_Kok_Ming.jpg)
+![Cheah Kok Ming](/images/boa_election_nominee_cheah_kok_ming.jpg)
 
-![Cheong Yew Kee](/images/BOA_Election_Nominee_Cheong_Yew_Kee.jpg)
+![Cheong Yew Kee](/images/boa_election_nominee_cheong_yew_kee.jpg)
 
-![Ho Lih Liang](/images/BOA_Election_Nominee_Ho_Lih_Liang.jpg)
+![Ho Lih Liang](/images/boa_election_nominee_ho_lih_liang.jpg)
 
-![Khairudin Saharom](/images/BOA_Election_Nominee_Khairudin.jpg)
+![Khairudin Saharom](/images/boa_election_nominee_khairudin.jpg)
 
-![Kuan Chee Yung](/images/BOA_Election_Nominee_Kuan_Chee_Yung.jpg)
+![Kuan Chee Yung](/images/boa_election_nominee_kuan_chee_yung.jpg)
 
-![Law Yoke Foong](/images/BOA_Election_Nominee_Law_Yoke_Foong.jpg)
+![Law Yoke Foong](/images/boa_election_nominee_law_yoke_foong.jpg)
 
-![Lim Choon Keang](/images/BOA_Election_Nominee_Lim_Choon_Keang.jpg)
+![Lim Choon Keang](/images/boa_election_nominee_lim_choon_keang.jpg)
 
-![Ng San Son](/images/BOA_Election_Nominee_Ng_San_Son.jpg)
+![Ng San Son](/images/boa_election_nominee_ng_san_son.jpg)
 
-![Teh Joo Heng](/images/BOA_Election_Nominee_Teh_Joo_Heng.jpg)
+![Teh Joo Heng](/images/boa_election_nominee_teh_joo_heng.jpg)
 
-![Woo Kok Chew Raymond](/images/BOA_Election_Nominee_Raymond_Woo.jpg)
+![Woo Kok Chew Raymond](/images/boa_election_nominee_raymond_woo.jpg)
 
-![Yeo Siew Haip](/images/BOA_Election_Nominee_Yeo_Siew_Haip.jpg)
+![Yeo Siew Haip](/images/boa_election_nominee_yeo_siew_haip.jpg)
 
-![Young Kok Inn Grace](/images/BOA_Election_Nominee_Grace_Young.jpg)
+![Young Kok Inn Grace](/images/boa_election_nominee_grace_young.jpg)
 
 
 **Notes to all Registered Architects**

@@ -28,7 +28,7 @@ Don’t miss this inspiring session, which brings together voices shaping the fu
 
 As seats for the seminar are limited, we would like to encourage you to register for the Seminar before **3 Oct 2025**. (_Note: Registration will close upon full subscription._) 
 
-Please refer to this [circular]({{site.baseurl}}/files/Circular_BOA_Seminar_2025.pdf) for more information on the registration fees and payment methods available. <br/>    
+Please refer to this [circular]({{site.baseurl}}/files/circular_boa_seminar_2025.pdf) for more information on the registration fees and payment methods available. <br/>    
 
 Please register via this [online application form](https://go.gov.sg/boa-seminar-2025). <br/>
 

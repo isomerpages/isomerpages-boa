@@ -10,7 +10,7 @@ permalink: /resources/news/boa-webinar-series-rudy-taslim/
 
 ### **BOA Webinar Series: Dialogue with Rudy Taslim of Genesis Architects, 30 Sep 2020**
 
-![BOA Webinar Poster](/images/Dialogue-with-Rudy-Taslim.jpg)
+![BOA Webinar Poster](/images/dialogue-with-rudy-taslim.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA is launching a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

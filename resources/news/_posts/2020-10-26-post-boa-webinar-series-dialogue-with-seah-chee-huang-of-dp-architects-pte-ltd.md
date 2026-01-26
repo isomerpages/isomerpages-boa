@@ -10,7 +10,7 @@ permalink: /resources/news/boa-webinar-series-seah-chee-huang/
 
 ### **BOA Webinar Series: Dialogue with Seah Chee Huang of DP Architects Pte Ltd, 16 Nov 2020**
 
-![BOA Webinar Poster](/images/BOA_Webinar_161120.jpg)
+![BOA Webinar Poster](/images/boa_webinar_161120.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA is launching a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

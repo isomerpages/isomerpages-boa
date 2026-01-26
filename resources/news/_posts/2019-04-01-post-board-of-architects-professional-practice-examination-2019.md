@@ -31,7 +31,7 @@ permalink: /resources/news/boa-professional-practice-examination-2019/
 
     **Application forms:**
 
-    * [Application form for admission to PPE 2019]({{site.baseurl}}/files/Application_form_for_PPE_2019.pdf)
+    * [Application form for admission to PPE 2019]({{site.baseurl}}/files/application_form_for_ppe_2019.pdf)
     * [Application for registration as an Architect]({{site.baseurl}}/files/form_1_application_for_registration.pdf)
 
     **Documents:**

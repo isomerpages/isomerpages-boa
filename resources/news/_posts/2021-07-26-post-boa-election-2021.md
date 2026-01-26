@@ -34,9 +34,9 @@ permalink: /resources/news/boa-election-2021/
 
 (5) The time frame and process for the 2021 election exercise is set out in the table below for your noting:
 
-![Election Timeline Table](/images/Timeline_Table.jpg)
+![Election Timeline Table](/images/timeline_table.jpg)
 
-(6) You can download a copy of the Nomination Form for the 2021 Election of Board Members from this [link]({{site.baseurl}}/files/Nomination_Form_BOA_Election_2021.pdf). **Separate forms** are to be submitted for **each** nominee. I wish to highlight the following rules for your attention: <br/>
+(6) You can download a copy of the Nomination Form for the 2021 Election of Board Members from this [link]({{site.baseurl}}/files/nomination_form_boa_election_2021.pdf). **Separate forms** are to be submitted for **each** nominee. I wish to highlight the following rules for your attention: <br/>
 
 (a) Voting is **compulsory** for all registered architects with a valid PC. Those who failed to vote shall not be entitled to apply for a PC in future years unless he satisfies the Registrar that he has a good and sufficient reason for not voting in the election; or pays to the Board a penalty of **$300** for not voting. **NO WAIVER** will be given. <br/>
 (b) Only architects who hold a valid PC may participate in the nomination and election process. Architects who do not have a valid PC and wish to participate in the nomination and election exercise can apply for their PCs before **3 Aug 2021 and 10 Aug 2021** respectively.  Late applications will not be accepted. 

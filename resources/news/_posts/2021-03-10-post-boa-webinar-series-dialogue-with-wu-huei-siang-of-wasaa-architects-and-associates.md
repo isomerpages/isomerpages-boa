@@ -10,7 +10,7 @@ permalink: /resources/news/boa-webinar-series-wu-huei-siang/
 
 ### **BOA Webinar Series: Dialogue with Wu Huei Siang of WASAA Architects & Associates, 5 Apr 2021**
 
-![BOA Webinar Poster](/images/BOA_Webinar_050421.jpg)
+![BOA Webinar Poster](/images/boa_webinar_050421.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA has launched a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

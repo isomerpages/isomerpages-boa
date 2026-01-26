@@ -26,7 +26,7 @@ b)	In the comments section, indicate your registration number / firm name and yo
 
 c)	Take a screenshot of the completed transaction and email to boa_enquiry@boa.gov.sg
 
-![BOA QR Code](/images/Paynow.png)
+![BOA QR Code](/images/paynow.png)
 
 ### **2)	Internet Banking:**
 

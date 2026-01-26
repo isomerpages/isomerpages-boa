@@ -8,4 +8,4 @@ title: Learn about the Architectural Practice
 
 ## **Infographics**
 
-![Say No to Illegal Practice Poster](/images/Infographic_Say_No_to_Illegal_Practice.jpg)
+![Say No to Illegal Practice Poster](/images/infographic_say_no_to_illegal_practice.jpg)
