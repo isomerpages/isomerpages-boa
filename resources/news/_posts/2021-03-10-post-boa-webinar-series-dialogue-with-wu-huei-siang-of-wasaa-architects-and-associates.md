@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Wu Huei Siang of WASAA Architects & Associates'
 date: 2021-03-10T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Wu-Huei-Siang
+permalink: /resources/news/boa-webinar-series-wu-huei-siang/
 
 ---
 

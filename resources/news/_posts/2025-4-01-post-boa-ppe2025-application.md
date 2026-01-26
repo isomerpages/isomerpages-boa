@@ -2,7 +2,7 @@
 layout: post
 title: 'Board of Architects Professional Practice Examination 2025'
 date: 2025-04-01
-permalink: /resources/news/boa-professional-practice-examination-2025
+permalink: /resources/news/boa-professional-practice-examination-2025/
 
 ---
 

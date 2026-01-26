@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Circular: Update on CPD Requirements for the year 2021'
 date: 2020-12-23T00:00:00.000Z
-permalink: /resources/news/Update-on-CPD-Requirements-2021
+permalink: /resources/news/update-on-cpd-requirements-2021/
 
 ---
 

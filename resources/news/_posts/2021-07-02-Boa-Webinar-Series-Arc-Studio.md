@@ -2,7 +2,7 @@
 layout: post
 title:  "BOA Webinar Series: Dialogue with Khoo Peng Beng and Belinda Huang of ARC Studio Architecture + Urbanism"
 date:   2021-07-02
-permalink: "/resources/news/BOA-Webinar-Series-Arc-Studio"
+permalink: /resources/news/boa-webinar-series-arc-studio/
 ---
 2 Jul 2021
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "BOA Webinar Series: Dialogue with Maria Warner Wong and Wong Chiu Man of WOW Architects"
 date:   2021-06-21
-permalink: "/resources/news/BOA-Webinar-Series-WOW"
+permalink: /resources/news/boa-webinar-series-wow/
 ---
 21 Jun 2021
 

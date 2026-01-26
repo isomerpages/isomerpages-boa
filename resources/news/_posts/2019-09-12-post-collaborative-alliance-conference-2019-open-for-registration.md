@@ -2,7 +2,7 @@
 layout: post
 title: 'Collaborative Alliance Conference 2019 - Open for Registration'
 date: 2019-09-12T00:00:00.000Z
-permalink: /resources/news/Collaborative-Alliance-Conference-2019
+permalink: /resources/news/collaborative-alliance-conference-2019/
 
 ---
 

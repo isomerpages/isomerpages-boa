@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Jerry Ong of CPG Consultants Pte Ltd'
 date: 2020-12-07T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Jerry-Ong
+permalink: /resources/news/boa-webinar-series-jerry-ong/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Singapore Pavilion'
 date: 2019-09-10T00:00:00.000Z
-permalink: /resources/features/WOHA-Architects-Singapore-Pavilion
+permalink: /resources/features/woha-architects-singapore-pavilion/
 
 ---
 

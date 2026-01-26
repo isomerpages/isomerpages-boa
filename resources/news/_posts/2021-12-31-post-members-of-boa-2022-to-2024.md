@@ -2,7 +2,7 @@
 layout: post
 title:  " Members of the Board of Architects 2022 - 2024"
 date:   2021-12-31
-permalink: "/resources/news/Members-of-BOA-2022-to-2024"
+permalink: /resources/news/members-of-boa-2022-to-2024/
 ---
 31 Dec 2021
 

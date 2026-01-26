@@ -2,7 +2,7 @@
 layout: post
 title: 'RT+Q Architects on being dedicated to the craft'
 date: 2018-08-15T00:00:00.000Z
-permalink: /resources/features/RTQ-Architects-on-being-dedicated-to-the-craft
+permalink: /resources/features/rtq-architects-on-being-dedicated-to-the-craft/
 
 ---
 

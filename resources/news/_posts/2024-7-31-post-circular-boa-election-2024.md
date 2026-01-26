@@ -2,7 +2,7 @@
 layout: post
 title: 'Circular - 2024 Architects’ Election of Board Members'
 date: 2024-07-31
-permalink: /resources/news/circular-boa-election-2024
+permalink: /resources/news/circular-boa-election-2024/
 
 ---
 

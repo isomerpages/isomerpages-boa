@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Tiah Nan Chyuan of FARM Architects Pte Ltd'
 date: 2021-05-27T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Tiah-Nan-Chyuan
+permalink: /resources/news/boa-webinar-series-tiah-nan-chyuan/
 
 ---
 

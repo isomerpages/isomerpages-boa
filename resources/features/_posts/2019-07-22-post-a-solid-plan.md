@@ -2,7 +2,7 @@
 layout: post
 title: 'A solid plan'
 date: 2019-07-22T00:00:00.000Z
-permalink: /resources/features/A-solid-plan
+permalink: /resources/features/a-solid-plan/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: ' Update on the Professional Practice Examination (PPE) 2021'
 date: 2022-08-02
-permalink: /resources/news/boa-ppe2021-update
+permalink: /resources/news/boa-ppe2021-update/
 
 ---
 

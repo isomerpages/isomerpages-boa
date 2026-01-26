@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Presentation Ceremony & Seminar 2019 - Registration Closed'
 date: 2019-08-07T00:00:00.000Z
-permalink: /resources/news/BOA-Presentation-Ceremony-and-Seminar-2019
+permalink: /resources/news/boa-presentation-ceremony-and-seminar-2019/
 
 ---
 

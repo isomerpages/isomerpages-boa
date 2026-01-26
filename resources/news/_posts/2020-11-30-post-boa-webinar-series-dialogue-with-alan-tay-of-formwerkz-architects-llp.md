@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Alan Tay of Formwerkz Architects LLP'
 date: 2020-11-11T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Alan-Tay
+permalink: /resources/news/boa-webinar-series-alan-tay/
 
 ---
 

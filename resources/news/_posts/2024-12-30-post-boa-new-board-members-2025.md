@@ -2,7 +2,7 @@
 layout: post
 title:  "Members of the Board of Architects 2025 - 2027"
 date:   2024-12-30
-permalink: "/resources/news/new-board-members-2025"
+permalink: /resources/news/new-board-members-2025/
 ---
 
 30 Dec 2024

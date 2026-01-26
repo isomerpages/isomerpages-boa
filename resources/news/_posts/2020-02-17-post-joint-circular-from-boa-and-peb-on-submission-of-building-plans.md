@@ -2,7 +2,7 @@
 layout: post
 title: 'Joint Circular from BOA and PEB on Submission of Building Plans'
 date: 2020-02-17T00:00:00.000Z
-permalink: /resources/news/joint_circular_from_BOA_and_PEB_on_submission_of_building_plans
+permalink: /resources/news/joint_circular_from_boa_and_peb_on_submission_of_building_plans/
 
 ---
 

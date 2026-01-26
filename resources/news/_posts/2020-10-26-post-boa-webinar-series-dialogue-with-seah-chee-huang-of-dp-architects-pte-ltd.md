@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Seah Chee Huang of DP Architects Pte Ltd'
 date: 2020-10-26T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Seah-Chee-Huang
+permalink: /resources/news/boa-webinar-series-seah-chee-huang/
 
 ---
 

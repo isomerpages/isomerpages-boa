@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Melvin Tan of LAUD Architects Pte Ltd'
 date: 2020-12-01T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Alan-Tay
+permalink: /resources/news/boa-webinar-series-alan-tay/
 
 ---
 

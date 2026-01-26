@@ -2,7 +2,7 @@
 layout: post
 title: 'WASAA on the craft of making'
 date: 2019-05-17T00:00:00.000Z
-permalink: /resources/features/WASAA-craft-making
+permalink: /resources/features/wasaa-craft-making/
 
 ---
 

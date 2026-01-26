@@ -2,7 +2,7 @@
 layout: post
 title: 'Board of Architects Professional Practice Examination 2023'
 date: 2023-04-03
-permalink: /resources/news/boa-professional-practice-examination-2023
+permalink: /resources/news/boa-professional-practice-examination-2023/
 
 ---
 

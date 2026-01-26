@@ -2,7 +2,7 @@
 layout: post
 title: '2021 Architects’ Election of Board Members'
 date: 2021-07-26
-permalink: /resources/news/boa-election-2021
+permalink: /resources/news/boa-election-2021/
 
 ---
 

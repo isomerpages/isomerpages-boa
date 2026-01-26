@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Presentation Ceremony and Seminar 2024 (Registration Closed)'
 date: 2024-09-18
-permalink: /resources/news/boa-seminar-2024
+permalink: /resources/news/boa-seminar-2024/
 
 ---
 

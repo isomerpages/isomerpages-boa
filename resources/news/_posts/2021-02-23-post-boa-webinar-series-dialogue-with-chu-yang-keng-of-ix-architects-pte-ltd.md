@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Chu Yang Keng of IX Architects Pte Ltd'
 date: 2021-02-23T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Chu-Yang-Keng
+permalink: /resources/news/boa-webinar-series-chu-yang-keng/
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 'Be an APEC architect'
-permalink: /register/be-an-APEC-architect/
+permalink: /register/be-an-apec-architect/
 breadcrumb: 'Be an APEC architect'
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 'DP Architects on passion and dream jobs'
 date: 2018-08-27T00:00:00.000Z
-permalink: /resources/features/DP-Architects-on-passion-and-dream-jobs
+permalink: /resources/features/dp-architects-on-passion-and-dream-jobs/
 
 ---
 

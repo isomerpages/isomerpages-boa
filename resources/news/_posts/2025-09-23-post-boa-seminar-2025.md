@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Presentation Ceremony and Seminar 2025'
 date: 2025-09-23
-permalink: /resources/news/boa-seminar-2025
+permalink: /resources/news/boa-seminar-2025/
 
 ---
 

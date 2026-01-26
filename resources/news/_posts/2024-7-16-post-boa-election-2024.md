@@ -2,7 +2,7 @@
 layout: post
 title: '2024 Architects’ Election of Board Members'
 date: 2024-07-16
-permalink: /resources/news/boa-election-2024
+permalink: /resources/news/boa-election-2024/
 
 ---
 

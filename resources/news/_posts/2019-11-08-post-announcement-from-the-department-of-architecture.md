@@ -2,7 +2,7 @@
 layout: post
 title: 'Announcement from the Department of Architecture'
 date: 2019-11-08T00:00:00.000Z
-permalink: /resources/news/architecture_internship_programme_updates
+permalink: /resources/news/architecture_internship_programme_updates/
 
 ---
 

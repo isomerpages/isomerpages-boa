@@ -2,7 +2,7 @@
 layout: post
 title:  "BOA Webinar Series: Dialogue with Siew Man Kok of MKPL Architects"
 date:   2021-07-22
-permalink: "/resources/news/BOA-Webinar-Series-Siew-Man-Kok"
+permalink: /resources/news/boa-webinar-series-siew-man-kok/
 ---
 22 Jul 2021
 

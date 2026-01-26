@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Presentation Ceremony and Seminar 2023, 7 Nov 2023'
 date: 2023-10-06
-permalink: /resources/news/boa-seminar-2023
+permalink: /resources/news/boa-seminar-2023/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Khairudin Saharom of Kite Studio Architecture'
 date: 2020-09-24T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Khai-Saharom
+permalink: /resources/news/boa-webinar-series-khai-saharom/
 
 ---
 

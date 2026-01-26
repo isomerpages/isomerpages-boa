@@ -1,6 +1,6 @@
 ---
 title: 'Be an ASEAN architect'
-permalink: /register/be-an-ASEAN-architect/
+permalink: /register/be-an-asean-architect/
 breadcrumb: 'Be an ASEAN architect'
 
 ---

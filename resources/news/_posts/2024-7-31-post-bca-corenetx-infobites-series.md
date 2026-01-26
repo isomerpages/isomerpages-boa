@@ -2,7 +2,7 @@
 layout: post
 title:  "CORENET X Infobites"
 date:   2024-07-31
-permalink: "/resources/news/corenetx-infobites"
+permalink: /resources/news/corenetx-infobites/
 ---
 
 31 Jul 2024

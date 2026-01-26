@@ -2,7 +2,7 @@
 layout: post
 title:  " Voting to Elect Architects as Board Members "
 date:   2021-08-16
-permalink: "/resources/news/BOA-Election-2021-Voting"
+permalink: /resources/news/boa-election-2021-voting/
 ---
 16 Aug 2021
 

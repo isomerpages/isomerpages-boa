@@ -2,7 +2,7 @@
 layout: post
 title: 'Members of the Board of Architects 2019-2021'
 date: 2018-12-31T00:00:00.000Z
-permalink: /resources/news/members-of-Board-of-Architects-2019-to-2021
+permalink: /resources/news/members-of-board-of-architects-2019-to-2021/
 
 ---
 

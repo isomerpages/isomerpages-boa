@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Presentation Ceremony and Seminar 2022, 15 Nov 2022'
 date: 2022-10-25
-permalink: /resources/news/boa-seminar-2022
+permalink: /resources/news/boa-seminar-2022/
 
 ---
 

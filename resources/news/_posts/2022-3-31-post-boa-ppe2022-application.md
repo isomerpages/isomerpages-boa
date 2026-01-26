@@ -2,7 +2,7 @@
 layout: post
 title: 'Board of Architects Professional Practice Examination 2022'
 date: 2022-03-31
-permalink: /resources/news/boa-professional-practice-examination-2022
+permalink: /resources/news/boa-professional-practice-examination-2022/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "BOA Webinar Series: Dialogue with Wo Mei Lan of Liu & Wo Architects Pte Ltd"
 date:   2021-08-06
-permalink: "/resources/news/BOA-Webinar-Series-Wo-Mei-Lan"
+permalink: /resources/news/boa-webinar-series-wo-mei-lan/
 ---
 6 Aug 2021
 

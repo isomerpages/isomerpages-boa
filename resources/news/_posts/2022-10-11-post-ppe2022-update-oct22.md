@@ -2,7 +2,7 @@
 layout: post
 title:  "Update on the Professional Practice Examination 2022"
 date:   2022-10-11
-permalink: "/resources/news/PPE2022-Update-Oct22"
+permalink: /resources/news/ppe2022-update-oct22/
 ---
 11 Oct 2022
 
