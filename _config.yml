@@ -44,8 +44,8 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-staging: https://staging.d27wz4arjdp9du.amplifyapp.com/
-prod: https://master.d27wz4arjdp9du.amplifyapp.com/
+staging: https://staging.d2311maqwdxv2n.amplifyapp.com/
+prod: https://master.d2311maqwdxv2n.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
