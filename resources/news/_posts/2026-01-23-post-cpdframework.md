@@ -2,7 +2,7 @@
 layout: post
 title: "Recognition of Strategic Leadership and Business-related Courses under the CPD Framework"
 date: 2026-01-23
-permalink: "/resources/news/cpdframework"
+permalink: /resources/news/cpdframework/
 ---
 23 Jan 2026
 

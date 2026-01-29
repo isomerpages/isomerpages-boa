@@ -2,13 +2,13 @@
 layout: post
 title: 'WASAA on the craft of making'
 date: 2019-05-17T00:00:00.000Z
-permalink: /resources/features/WASAA-craft-making
+permalink: /resources/features/wasaa-craft-making/
 
 ---
 
 ### **Space ships, mountains and skate parks – architect Wu Huei Siang is focused on craft-making.**
 
-![Architect Wu Huei Siang at his WASAA office](/images/WASAA-Wu.jpg)
+![Architect Wu Huei Siang at his WASAA office](/images/wasaa-wu.jpg)
 © URA
 
 *By Serene Tng*
@@ -17,14 +17,14 @@ permalink: /resources/features/WASAA-craft-making
 
 His firm has five staff including his partner, Austen Chan, 36. So far, the firm has designed houses, apartments, landscapes, an art installation to showcase Singapore’s creatives in Tokyo and even a hotel that looks like a spaceship which did not materialise. He is now working on restoring one of the oldest shophouses along Hong Kong Street where he discovered pulley baskets within.
 
-![Sketch of the shophouse at Hong Kong street with a six-storey new annex addition](/images/WASAA-Hongkong.jpg)
+![Sketch of the shophouse at Hong Kong street with a six-storey new annex addition](/images/wasaa-hongkong.jpg)
 Sketch of the shophouse of Hong Kong Street with a six-storey new annex addition © WASAA
 
 **1. How did you come to choose the path of being an architect?**
 
 **Huei Siang**: Growing up in a family of wood workers, I’ve always been fascinated by the craft of making something with available materials and treating the design process and resources with great respect. My father is one of the last few remaining craftsmen trained in Shanghai. We used to live at Petain Road and I can still remember the smell of lumber. Choosing architecture was actually a last minute decision. I was already offered a place in engineering but changed my mind at the last minute. I wanted to try something different.
 
-![Completed house at Frankel by Huei Siang for his friend's father](/images/WASAA-Frankel.jpg)
+![Completed house at Frankel by Huei Siang for his friend's father](/images/wasaa-frankel.jpg)
 Completed house at Frankel by Huei Siang for his friend's father © Rebecca Toh Photography
 
 **2. You started WASAA in 2016. What was the inspiration to start your own practice?**
@@ -35,7 +35,7 @@ Completed house at Frankel by Huei Siang for his friend's father © Rebecca Toh 
 
 **Huei Siang**: I hope to bring joy and spark delight for clients and people using the designed spaces whether it is a major or smaller project. It is one of the oldest principles of architecture.
 
-![WASAA office](/images/WASAA-office.jpg)
+![WASAA office](/images/wasaa-office.jpg)
 WASAA office at Kreta Ayer © URA
 
 **4. What are some of the challenges of running the practice?**
@@ -46,7 +46,7 @@ WASAA office at Kreta Ayer © URA
 
 **Huei Siang**: Being able to design meaningful spaces and create spaces that can trigger our emotions and influence people in a deeper way. 
 
-![Singapore Inside Out 2017 Tokyo](/images/WASAA-Tokyo.jpg)
+![Singapore Inside Out 2017 Tokyo](/images/wasaa-tokyo.jpg)
 Singapore Inside Out 2017 in Tokyo showcasing Singapore's creatives. WASAA was the architecture advisor. © WASAA
 
 **6. Who inspires you?** 
@@ -57,7 +57,7 @@ Singapore Inside Out 2017 in Tokyo showcasing Singapore's creatives. WASAA was t
 
 **Huei Siang**: The coastlines of Singapore, whether it is the east coast or the west coast. I like to immerse myself in the natural elements. It frees your mind and soul.  
 
-![One of the talks held at the WASAA's office](/images/WASAA-talk.jpg)
+![One of the talks held at the WASAA's office](/images/wasaa-talk.jpg)
 WASAA organises talks at their office to encourage an exchange of ideas © WASAA
 
 **8. How do you see the role of the architect evolving?**

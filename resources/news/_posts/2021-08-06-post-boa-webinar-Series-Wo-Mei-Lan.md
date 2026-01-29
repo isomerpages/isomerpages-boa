@@ -2,13 +2,13 @@
 layout: post
 title:  "BOA Webinar Series: Dialogue with Wo Mei Lan of Liu & Wo Architects Pte Ltd"
 date:   2021-08-06
-permalink: "/resources/news/BOA-Webinar-Series-Wo-Mei-Lan"
+permalink: /resources/news/boa-webinar-series-wo-mei-lan/
 ---
 6 Aug 2021
 
 ### **BOA Webinar Series: Dialogue with Wo Mei Lan of Liu & Wo Architects Pte Ltd, 26 Aug 2021**
 
-![BOA Webinar Poster](/images/BOA_Webinar_260821.jpg)
+![BOA Webinar Poster](/images/boa_webinar_260821.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA has launched a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

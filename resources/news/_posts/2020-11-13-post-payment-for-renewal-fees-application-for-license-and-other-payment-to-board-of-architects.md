@@ -2,7 +2,7 @@
 layout: post
 title: 'PAYMENT FOR RENEWAL FEES, APPLICATION FOR LICENSE AND OTHER PAYMENT TO BOARD OF ARCHITECTS'
 date: 2020-11-13T00:00:00.000Z
-permalink: /resources/news/BOA-Payment-Methods
+permalink: /resources/news/boa-payment-methods/
 
 ---
 
@@ -26,7 +26,7 @@ b)	In the comments section, indicate your registration number / firm name and yo
 
 c)	Take a screenshot of the completed transaction and email to boa_enquiry@boa.gov.sg
 
-![BOA QR Code](/images/Paynow.png)
+![BOA QR Code](/images/paynow.png)
 
 ### **2)	Internet Banking:**
 

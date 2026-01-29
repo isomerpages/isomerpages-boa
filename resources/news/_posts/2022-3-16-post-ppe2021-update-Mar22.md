@@ -2,7 +2,7 @@
 layout: post
 title:  " Announcement to PPE candidates"
 date:   2022-03-16
-permalink: "/resources/news/PPE2021-Update-Mar22"
+permalink: /resources/news/ppe2021-update-mar22/
 ---
 16 Mar 2022
 

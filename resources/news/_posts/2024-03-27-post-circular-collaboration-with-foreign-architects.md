@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Circular – Collaboration with Foreign Architects'
 date: 2024-03-27
-permalink: /resources/news/boa-circular-collaboration-foreign-architects
+permalink: /resources/news/boa-circular-collaboration-foreign-architects/
 
 ---
 BOA 116.2 (Circular)

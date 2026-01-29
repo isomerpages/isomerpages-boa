@@ -2,7 +2,7 @@
 layout: post
 title: 'NUS Architecture Internship Programme'
 date: 2018-03-20T00:00:00.000Z
-permalink: /resources/news/nus-architecture-internship-programme
+permalink: /resources/news/nus-architecture-internship-programme/
 
 ---
 

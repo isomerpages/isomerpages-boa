@@ -2,7 +2,7 @@
 layout: post
 title: "Update on the Professional Practice Examination 2024"
 date: 2024-09-20
-permalink: "/resources/news/PPE2024-Update-Sep24"
+permalink: /resources/news/ppe2024-update-sep24/
 ---
 20 Sep 2024
 

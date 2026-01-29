@@ -2,7 +2,7 @@
 layout: post
 title: "Electronic issuance of Practising Certificate from 2026"
 date: 2026-01-02
-permalink: "/resources/news/electronic_PC2026"
+permalink: /resources/news/electronic_pc2026/
 ---
 2 Jan 2026
 

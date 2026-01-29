@@ -21,7 +21,7 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
-favicon: /images/favicon-BOA.ico
+favicon: /images/favicon-boa.ico
 google_analytics: null
 permalink: none
 baseurl: ""
@@ -44,8 +44,8 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-staging: https://isomer-boagovsg-staging.netlify.app
-prod: https://isomer-boagovsg-prod.netlify.app
+staging: https://staging.d2311maqwdxv2n.amplifyapp.com/
+prod: https://master.d2311maqwdxv2n.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

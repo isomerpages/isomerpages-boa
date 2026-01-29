@@ -2,7 +2,7 @@
 layout: post
 title: 'Rainbow twist'
 date: 2019-07-22T00:00:00.000Z
-permalink: /resources/features/Plystudio-Architects-rainbow-twist
+permalink: /resources/features/plystudio-architects-rainbow-twist/
 
 ---
 

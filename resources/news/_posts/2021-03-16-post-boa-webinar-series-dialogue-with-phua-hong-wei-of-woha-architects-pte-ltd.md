@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Phua Hong Wei of WOHA Architects Pte Ltd'
 date: 2021-03-16T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Phua-Hong-Wei
+permalink: /resources/news/boa-webinar-series-phua-hong-wei/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /resources/news/BOA-Webinar-Series-Phua-Hong-Wei
 
 ### **BOA Webinar Series: Dialogue with Phua Hong Wei of WOHA Architects Pte Ltd, 29 Apr 2021**
 
-![BOA Webinar Poster](/images/BOA_Webinar_290421.jpg)
+![BOA Webinar Poster](/images/boa_webinar_290421.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA has launched a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

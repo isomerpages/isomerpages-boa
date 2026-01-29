@@ -2,7 +2,7 @@
 layout: post
 title: "Update on the Professional Practice Examination 2023"
 date: 2023-09-25
-permalink: "/resources/news/PPE2023-Update-Sep23"
+permalink: /resources/news/ppe2023-update-sep23/
 ---
 25 Sep 2023
 

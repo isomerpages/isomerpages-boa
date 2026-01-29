@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Chu Yang Keng of IX Architects Pte Ltd'
 date: 2021-02-23T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Chu-Yang-Keng
+permalink: /resources/news/boa-webinar-series-chu-yang-keng/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /resources/news/BOA-Webinar-Series-Chu-Yang-Keng
 
 ### **BOA Webinar Series: Dialogue with Chu Yang Keng of IX Architects Pte Ltd, 16 Mar 2021**
 
-![BOA Webinar Poster](/images/BOA_Webinar_160321.jpg)
+![BOA Webinar Poster](/images/boa_webinar_160321.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA has launched a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

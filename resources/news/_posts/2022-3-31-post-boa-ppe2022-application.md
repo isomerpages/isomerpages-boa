@@ -2,7 +2,7 @@
 layout: post
 title: 'Board of Architects Professional Practice Examination 2022'
 date: 2022-03-31
-permalink: /resources/news/boa-professional-practice-examination-2022
+permalink: /resources/news/boa-professional-practice-examination-2022/
 
 ---
 
@@ -51,7 +51,7 @@ _**Notes:**_
 
 (a) Examination fees are not refundable. <br/>
 (b) Payment can now be made via PayNow, Internet Banking or cheque (made payable to **Board of Architects**). Please do **not** send cash via post. <br/>
-(c) Please refer to our [website](https://www.boa.gov.sg/files/Instructions_PayNow_Internet_Banking.pdf) for the instructions for making payment via PayNow or Internet Banking.<br/> 
+(c) Please refer to our [website](https://www.boa.gov.sg/files/instructions_paynow_internet_banking.pdf) for the instructions for making payment via PayNow or Internet Banking.<br/> 
 (d) Candidates who are making payment via PayNow or Internet Banking are required to take note of the following: <br/>
 (i) In the comments section, indicate your name followed by your contact number. For eg. _Aloysius Wong 91234567_<br/> 
 (ii) Take a screenshot of the completed transaction and email it to boa_enquiry@boa.gov.sg. <br/>

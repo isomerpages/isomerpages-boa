@@ -2,13 +2,13 @@
 layout: post
 title: 'Daniel Libeskind on designing for past and future'
 date: 2020-03-13T00:00:00.000Z
-permalink: /resources/features/Daniel-Libeskind-on-designing-for-past-and-future
+permalink: /resources/features/daniel-libeskind-on-designing-for-past-and-future/
 
 ---
 
 ### **The invisible unicorn**
 
-![Daniel Libeskind](/images/Daniel.jpg)
+![Daniel Libeskind](/images/daniel.jpg)
 
 *© URA*
 
@@ -30,7 +30,7 @@ We caught up with Daniel on what it means to design a physical space for both th
 
 **Daniel**: I consider memory the foundation of architecture. It is memory that creates orientation and gives us a sense of connection between traditions of the past, the present and the future. Memory is key to all my work. When you deal with places of memory, you have to be able to transmit something beyond the past. You have to transmit the hopes of the future. You have to structure the spaces in such a way that it has the equivalent to the complexity of the human spirit and mind. Without memory, we would not know who we are or where we are going.
 
-![Jewish Museum in Berlin designed by Daniel Libeskind](/images/Jewish_Museum.jpg)
+![Jewish Museum in Berlin designed by Daniel Libeskind](/images/jewish_museum.jpg)
 
 *The Jewish Museum in Berlin designed by Daniel Libeskind is considered one of the most revolutionary structures built since the war in Germany or anywhere. © Studio Libeskind*
 
@@ -62,7 +62,7 @@ So the site in the same way is like the invisible unicorn. It is there and is ev
 
 As the master planner of the site, I worked to bring people together, not just with an architect there but with a place. What does the place mean? What does the event mean? How do we give hope after such a catastrophic event? How can we develop the city to be full of optimism and beauty, while using memory as a fulcrum of the experience?
 
-![The wall that was retained at the new World Trade Centre site](/images/WTC_Wall.jpg)
+![The wall that was retained at the new World Trade Centre site](/images/wtc_wall.jpg)
 
 *The concrete slurry wall built in the 1960s surrounding the World Trade Centre site survived the 9/11 tragedy. Today, it is part of the Ground Zero site as an engineering marvel and testimony to the human spirit. © Studio Libeskind*
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Board of Architects Professional Practice Examination 2023'
 date: 2023-04-03
-permalink: /resources/news/boa-professional-practice-examination-2023
+permalink: /resources/news/boa-professional-practice-examination-2023/
 
 ---
 
@@ -26,7 +26,7 @@ _The following documents must be mailed to the Board of Architects at 5 Maxwell 
 
 (i) [Application form for admission to PPE 2023]({{site.baseurl}}/forms/Application_form_for_PPE_2023.pdf) <br/> 
 (ii) [Application for registration as an Architect]({{site.baseurl}}/forms/Form_1_Application_for_Registration.pdf) <br/>
-(iii) [Acknowledgement form for BOA Circular on Subsidy for Architectural Practice Course]({{site.baseurl}}/files/BOA_Circular_Subsidy_for_APC_Course_2023.pdf) <br/>
+(iii) [Acknowledgement form for BOA Circular on Subsidy for Architectural Practice Course]({{site.baseurl}}/files/boa_circular_subsidy_for_apc_course_2023.pdf) <br/>
 (iv) 2 copies of qualification papers (such as degree, diploma etc.) <br/>
 (v) 2 copies of transcript for the above degree/diploma (showing subjects and examination results) <br/>
 (vi) **2 character reference letters from the two referees you have stated in _Section E of Form 1 – Application for registration_**<br/>
@@ -39,7 +39,7 @@ _Candidates are required to upload the soft copy of the following documents onto
 (i) Practical Experience Logbook <br/>
 (ii) Professional Case Study 
 
-**Please refer to [Annex A]({{site.baseurl}}/files/Annex_A_Notes_PPE2023.pdf) for the “Notes for Submission of the Log Book and Professional Case Study”.** 
+**Please refer to [Annex A]({{site.baseurl}}/files/annex_a_notes_ppe2023.pdf) for the “Notes for Submission of the Log Book and Professional Case Study”.** 
 
 **(C) Fees payable:**
     
@@ -52,7 +52,7 @@ _**Notes:**_
 
 (a) Examination fees are not refundable. <br/>
 (b) Payment can be made via PayNow and Internet Banking. <br/>
-(c) Please refer to our [website](https://www.boa.gov.sg/files/Instructions_PayNow_Internet_Banking.pdf) for the instructions for making payment via PayNow or Internet Banking.<br/> 
+(c) Please refer to our [website](https://www.boa.gov.sg/files/instructions_paynow_internet_banking.pdf) for the instructions for making payment via PayNow or Internet Banking.<br/> 
 (d) Candidates who are making payment via PayNow or Internet Banking are required to take note of the following: <br/>
 (i) In the comments section, indicate your name followed by your contact number. For eg. _Aloysius Wong 91234567_<br/> 
 (ii) Take a screenshot of the completed transaction and email it to boa_enquiry@boa.gov.sg. <br/>

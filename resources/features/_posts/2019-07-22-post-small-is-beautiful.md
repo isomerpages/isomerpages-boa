@@ -2,7 +2,7 @@
 layout: post
 title: 'Small is beautiful'
 date: 2019-07-22T00:00:00.000Z
-permalink: /resources/features/BHATCH-Architects-small-is-beautiful
+permalink: /resources/features/bhatch-architects-small-is-beautiful/
 
 ---
 

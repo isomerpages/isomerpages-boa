@@ -2,7 +2,7 @@
 layout: post
 title: 'Singapore Architects and Structural Engineers join Construction Declares'
 date: 2020-01-23T00:00:00.000Z
-permalink: /resources/news/Singapore-Climate-Declaration
+permalink: /resources/news/singapore-climate-declaration/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Donovan Soon of FDAT Architects LLP'
 date: 2021-05-17T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Donovan-Soon
+permalink: /resources/news/boa-webinar-series-donovan-soon/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /resources/news/BOA-Webinar-Series-Donovan-Soon
 
 ### **BOA Webinar Series: Dialogue with Donovan Soon of FDAT Architects LLP, 09 Jun 2021**
 
-![BOA Webinar Poster](/images/BOA_Webinar_090621.jpg)
+![BOA Webinar Poster](/images/boa_webinar_090621.jpg)
 
 Donovan Soon and Francis Goh are the founding partners of FDAT, an architecture and design-focused studio based in Singapore. Both practiced for a decade at WOHA.
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Top 15 Architectural firms 2019'
 date: 2019-09-03T00:00:00.000Z
-permalink: /resources/news/boa-top-15-architecture-firms-2019
+permalink: /resources/news/boa-top-15-architecture-firms-2019/
 
 ---
 

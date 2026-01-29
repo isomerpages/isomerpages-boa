@@ -2,7 +2,7 @@
 layout: post
 title: 'Circular - 2024 Architects’ Election of Board Members'
 date: 2024-07-31
-permalink: /resources/news/circular-boa-election-2024
+permalink: /resources/news/circular-boa-election-2024/
 
 ---
 
@@ -36,9 +36,9 @@ permalink: /resources/news/circular-boa-election-2024
 
 (5) The time frame and process for the 2024 election exercise is set out in the table below for your noting: <br/>
 
-![Election Timeline Table](/images/BOA_Election_2024_Timeline.JPG)
+![Election Timeline Table](/images/boa_election_2024_timeline.jpg)
 
-(6) The Nomination Form for the 2024 Election of Board Members can be downloaded from this [link]({{site.baseurl}}/files/Nomination_Form_BOA_Election_2024.pdf). **Separate forms** are to be submitted for **each** nominee. I wish to highlight the following rules for your attention: <br/>
+(6) The Nomination Form for the 2024 Election of Board Members can be downloaded from this [link]({{site.baseurl}}/files/nomination_form_boa_election_2024.pdf). **Separate forms** are to be submitted for **each** nominee. I wish to highlight the following rules for your attention: <br/>
 
 (a) Voting is **compulsory** for all registered architects with a valid PC. Those who failed to vote shall not be entitled to apply for a PC in future years unless he satisfies the Registrar that he has a good and sufficient reason for not voting; or pays to the Board a penalty of **$300**. **NO WAIVER** will be given. <br/>
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Ko Shiou Hee of K2LD Architects Pte Ltd'
 date: 2021-01-04T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Ko-Shiou-Hee
+permalink: /resources/news/boa-webinar-series-ko-shiou-hee/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /resources/news/BOA-Webinar-Series-Ko-Shiou-Hee
 
 ### **BOA Webinar Series: Dialogue with Ko Shiou Hee of K2LD Architects Pte Ltd, 19 Jan 2021**
 
-![BOA Webinar Poster](/images/BOA_Webinar_190121.jpg)
+![BOA Webinar Poster](/images/boa_webinar_190121.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA has launched a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Speech by Minister at BOA Presentation Ceremony and Seminar on 15 Nov 2022"
 date:   2023-02-01
-permalink: "/resources/news/BOA-Seminar-2022-Minister-Speech"
+permalink: /resources/news/boa-seminar-2022-minister-speech/
 ---
 01 Feb 2023
 

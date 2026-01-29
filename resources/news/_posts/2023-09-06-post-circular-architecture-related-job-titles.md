@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Circular – Restrictions on Architecture-Related Job Titles'
 date: 2023-09-06
-permalink: /resources/news/boa-circular-restrictions-job-titles
+permalink: /resources/news/boa-circular-restrictions-job-titles/
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Update on the PPE 2025 Oral Examination"
 date: 2026-01-13
-permalink: "/resources/news/PPE2025-Update-Jan26"
+permalink: /resources/news/ppe2025-update-jan26/
 ---
 14 Jan 2025
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Board of Architects Professional Practice Examination 2021 (Application Closed)'
 date: 2021-04-01T00:00:00.000Z
-permalink: /resources/news/boa-professional-practice-examination-2021
+permalink: /resources/news/boa-professional-practice-examination-2021/
 
 ---
 
@@ -24,9 +24,9 @@ permalink: /resources/news/boa-professional-practice-examination-2021
 
 _The following documents must be mailed to the Board of Architects at 5 Maxwell Road, #01-03 Tower Block, MND Complex, Singapore 069110 via **post**. We do **not** accept submissions via email._
 
-(i) [Application form for admission to PPE 2021]({{site.baseurl}}/files/Application_form_for_PPE_2021.pdf)<br/> 
+(i) [Application form for admission to PPE 2021]({{site.baseurl}}/files/application_form_for_ppe_2021.pdf)<br/> 
 (ii) [Application for registration as an Architect]({{site.baseurl}}/files/form_1_application_for_registration.pdf) <br/>
-(iii) [Acknowledgement form for BOA Circular on Subsidy for Architectural Practice Course]({{site.baseurl}}/files/BOA_Circular_Subsidy_for_APC_Course_2021.pdf) <br/>
+(iii) [Acknowledgement form for BOA Circular on Subsidy for Architectural Practice Course]({{site.baseurl}}/files/boa_circular_subsidy_for_apc_course_2021.pdf) <br/>
 (iv) 2 copies of qualification papers (such as degree, diploma etc.) <br/>
 (v) 2 copies of transcripts of courses completed (showing subjects and examination results) <br/>
 (vi) **2 character reference letters from the two referees who are stated in _Section E of Form 1 – Application for registration_**

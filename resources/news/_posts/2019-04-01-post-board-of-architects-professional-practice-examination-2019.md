@@ -2,7 +2,7 @@
 layout: post
 title: 'Board of Architects Professional Practice Examination 2019'
 date: 2019-04-01T00:00:00.000Z
-permalink: /resources/news/boa-professional-practice-examination-2019
+permalink: /resources/news/boa-professional-practice-examination-2019/
 
 ---
 
@@ -31,7 +31,7 @@ permalink: /resources/news/boa-professional-practice-examination-2019
 
     **Application forms:**
 
-    * [Application form for admission to PPE 2019]({{site.baseurl}}/files/Application_form_for_PPE_2019.pdf)
+    * [Application form for admission to PPE 2019]({{site.baseurl}}/files/application_form_for_ppe_2019.pdf)
     * [Application for registration as an Architect]({{site.baseurl}}/files/form_1_application_for_registration.pdf)
 
     **Documents:**

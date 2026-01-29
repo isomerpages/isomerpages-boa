@@ -2,7 +2,7 @@
 layout: post
 title: 'Announcement to PPE Candidates - Submission of PPE QA Reports'
 date: 2020-09-16T00:00:00.000Z
-permalink: /resources/news/announcement-to-ppe-candidates-qa-reports
+permalink: /resources/news/announcement-to-ppe-candidates-qa-reports/
 
 ---
 

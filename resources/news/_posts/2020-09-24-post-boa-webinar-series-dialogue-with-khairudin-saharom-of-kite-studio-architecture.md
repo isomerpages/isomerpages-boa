@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Khairudin Saharom of Kite Studio Architecture'
 date: 2020-09-24T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Khai-Saharom
+permalink: /resources/news/boa-webinar-series-khai-saharom/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /resources/news/BOA-Webinar-Series-Khai-Saharom
 
 ### **BOA Webinar Series: Dialogue with Khairudin Saharom of Kite Studio Architecture, 15 Oct 2020**
 
-![Dialogue with Khai Saharom](images/Dialogue-with-Khai-Saharom-Poster.jpg)
+![Dialogue with Khai Saharom](/images/dialogue-with-khai-saharom-poster.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA is launching a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

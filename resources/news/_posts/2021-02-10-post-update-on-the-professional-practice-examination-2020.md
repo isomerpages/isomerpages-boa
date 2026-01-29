@@ -2,7 +2,7 @@
 layout: post
 title: 'Update on the Professional Practice Examination 2020'
 date: 2021-02-10T00:00:00.000Z
-permalink: /resources/news/update-on-ppe2020
+permalink: /resources/news/update-on-ppe2020/
 
 ---
 

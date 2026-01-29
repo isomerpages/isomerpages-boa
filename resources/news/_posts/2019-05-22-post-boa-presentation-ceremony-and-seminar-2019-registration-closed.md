@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Presentation Ceremony & Seminar 2019 - Registration Closed'
 date: 2019-08-07T00:00:00.000Z
-permalink: /resources/news/BOA-Presentation-Ceremony-and-Seminar-2019
+permalink: /resources/news/boa-presentation-ceremony-and-seminar-2019/
 
 ---
 
@@ -29,4 +29,4 @@ As seats for the seminar are limited, you are encouraged to register for the Sem
 We look forward to seeing you at the Seminar. 
 
 **Application form:**
-* [Application form for BOA Seminar 2019]({{site.baseurl}}/files/BOA_Seminar_2019_Application_Form.pdf)
+* [Application form for BOA Seminar 2019]({{site.baseurl}}/files/boa_seminar_2019_application_form.pdf)

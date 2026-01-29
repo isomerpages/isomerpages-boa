@@ -2,7 +2,7 @@
 layout: post
 title:  " Update on the Professional Practice Examination (PPE) 2021"
 date:   2021-10-13
-permalink: "/resources/news/PPE2021-Update-Oct21"
+permalink: /resources/news/ppe2021-update-oct21/
 ---
 13 Oct 2021
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Webinar Series: Dialogue with Michael Leong of SAA Architects Pte Ltd'
 date: 2021-01-22T00:00:00.000Z
-permalink: /resources/news/BOA-Webinar-Series-Michael-Leong
+permalink: /resources/news/boa-webinar-series-michael-leong/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /resources/news/BOA-Webinar-Series-Michael-Leong
 
 ### **BOA Webinar Series: Dialogue with Michael Leong of SAA Architects Pte Ltd, 2 Feb 2021**
 
-![BOA Webinar Poster](/images/BOA_Webinar_020221.jpg)
+![BOA Webinar Poster](/images/boa_webinar_020221.jpg)
 
 As part of BOA’s on-going effort to engage our registered architects during the COVID-19 pandemic, BOA has launched a series of complimentary webinars where we feature our local architects and speak to them about their experiences in the face of the challenges brought about by COVID-19. 
 

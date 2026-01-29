@@ -2,7 +2,7 @@
 layout: post
 title: 'BOA Circular: Waiver of CPD Requirements for the year 2020'
 date: 2020-04-02T00:00:00.000Z
-permalink: /resources/news/Circular-Waiver-of-CPD-Requirements-2020
+permalink: /resources/news/circular-waiver-of-cpd-requirements-2020/
 
 ---
 
@@ -27,4 +27,4 @@ Yours sincerely
 
 **REGISTRAR**
 
-[Copy of BOA Circular – Waiver of CPD Requirements for the year 2020]({{site.baseurl}}/files/BOA_Circular_CPD_Waiver_2020.pdf)
+[Copy of BOA Circular – Waiver of CPD Requirements for the year 2020]({{site.baseurl}}/files/boa_circular_cpd_waiver_2020.pdf)
