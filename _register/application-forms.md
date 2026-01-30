@@ -116,6 +116,7 @@ Sample template:
 
 [Sample template of licence]({{site.baseurl}}/files/licence.pdf)
 
+_Upon receipt of all required information, the Board aims to process applications within 30 working days. Where further evaluation is required, processing may take longer._
 
 ### **Part III - For practising architects**
 
@@ -146,6 +147,7 @@ Sample of a Practising Certificate:
 
 [Form of application for removal of name from the register of architects - Word doc]({{site.baseurl}}/files/remove.doc)
 
+_Upon receipt of all required information, the Board aims to process applications within 30 working days. Where further evaluation is required, processing may take longer._
 
 ### **Part IV - ASEAN/APEC Architect**
 
