@@ -12,4 +12,4 @@ permalink: /resources/news/ppe2025-update-jan26/
 
 (2) Candidates who are eligible to sit for the Oral Examination will be notified via email at the end of January 2026. <br/> 
 
-(3) **Please [click here]({{site.baseurl}}/files/Instructions_to_PPE candidates_PPE2025_Oral_Exam.pdf) for the instructions for candidates attending the Oral Examination.**
+(3) **Please [click here]({{site.baseurl}}/files/instructions_to_ppe candidates_ppe2025_oral_exam.pdf) for the instructions for candidates attending the Oral Examination.**
