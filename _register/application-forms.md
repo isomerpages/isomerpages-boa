@@ -173,4 +173,4 @@ _Upon receipt of all required information, the Board aims to process application
 
 We accept payment via **PayNow** and **internet banking**. Please refer to the following instructions for payment via PayNow and internet banking:
 
-[Instructions for PayNow and Internet Banking]({{site.baseurl}}/files/instructions_paynow_internet_banking.pdf)
+[Instructions for PayNow and Internet Banking]({{site.baseurl}}/files/Payment_Instructions_BOA.pdf)
