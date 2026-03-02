@@ -36,5 +36,5 @@ Your letter of complaint should include:
 
 * supporting documents to substantiate your complaint, e.g. building plans, submissions, photographs or other relevant documents; and
 
-* a Statutory Declaration (SD). The SD is a written statement of facts which is signed and affirmed by you that the contents in the complaint are true and accurate to the best of your knowledge and belief. The SD must be affirmed before a Commissioner for Oaths. It is an offence to submit a false SD. 
+* a Statutory Declaration (SD). The statutory declaration must be made in the manner provided in the [Oaths and Declarations Act 2000](https://sso.agc.gov.sg/Act/ODA2000). It is an offence to submit a false SD. 
 
