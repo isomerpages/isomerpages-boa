@@ -78,8 +78,9 @@ Applicant must have passed one of the examinations for registration under Sectio
 
 **E) Confirmatory Examination under Section 15(1)(c) of the Architects Act**
 
-Applicants whose architectural degrees are not found in BOA's list of recognised qualifications are required to clear the Confirmatory Examination under Section 15(1)(c) before they are allowed to apply to sit for one of the examinations for registration under Section 15(2) of the Architects Act. 
-Applicants are required to attend a compulsory Pre-submission Briefing before applying to sit for the examination. The schedule can be found under Appendix A of the guidelines. Applicants must submit an application via the online application at least one week prior to date of the briefing.
+Applicants whose architectural degrees are not found in BOA's list of recognised qualifications are required to clear the Confirmatory Examination under Section 15(1)(c) before they are allowed to apply to sit for one of the examinations for registration under Section 15(2) of the Architects Act.
+
+Applicants are required to attend a compulsory Pre-submission Briefing before applying to sit for the examination. The schedule can be found under Appendix A of the guidelines. Applicants must submit an application via the online application form at least one week prior to date of the briefing.
 
 Guidelines:
 
