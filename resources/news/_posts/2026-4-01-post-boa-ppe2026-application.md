@@ -48,48 +48,21 @@ PPE candidates must read the notice on the **Subsidy for Architectural Practice 
 
 **(C) Fees payable:**
     
-<table class="table-v">
-<tr>
-<td>Description</td>
-<td>First time applicant</td>
-</tr>
-<tr>
-<td> Application fee for admission to PPE 2026</td>
-<td>S$500.00</td>
-</tr>
-<tr>
-<td>Application fee for registration as an architect</td>
-<td>S$350.00</td>
-</tr>
-<tr>
-<td>Total</td>
-<td>S$850.00</td>
-</tr>
-</table>
-<table class="table-v">
-<tr>
-<td>Description</td>
-<td>Repeat applicant</td>
-</tr>
-<tr>
-<td> Application fee for admission to PPE 2026</td>
-<td>S$600.00</td>
-</tr>
-<tr>
-<td>Application fee for registration as an architect</td>
-<td>Not applicable if you have previously paid this fee and have not requested for a refund</td>
-</tr>
-<tr>
-<td>Total</td>
-<td>S$600.00</td>
-</tr>
-</table>
+**First time applicant** <br/>
+Application fee for admission to PPE 2026: S$500.00 <br/>
+Application fee for registration as an architect: S$350.00 <br/>
+Total: S$850.00 <br/>
+
+**Repeat applicant** <br/>
+Application fee for admission to PPE 2026: S$600.00 <br/>
+Application fee for registration as an architect: Not applicable if you have previously paid this fee and have not requested for a refund <br/>
+Total: S$600.00 <br/>
 
 _**Notes:**_
 
 (a) Examination fees are not refundable. <br/>
 (b) Payment can now be made via PayNow and Internet Banking. <br/>
-(c) Please refer to our [website](https://www.boa.gov.sg/files/Instructions_PayNow_Internet_Banking.pdf) for the instructions for making payment via PayNow or Internet Banking. <br/> 
+(c) Please refer to our [website](https://www.boa.gov.sg/files/Payment_Instructions_BOA.pdf) for the instructions for making payment via PayNow or Internet Banking. <br/> 
 (d) Candidates who are making payment via PayNow or Internet Banking are required to take note of the following: <br/>
 (i) In the comments section, indicate your name followed by your contact number. For eg. _AydenWongYiden 91234567_<br/> 
 (ii) Take a screenshot of the completed transaction and email it to boa_enquiry@boa.gov.sg. <br/>
@@ -108,4 +81,5 @@ For examination application purposes, the Advisor, Supervisor, Employer and Char
 * Case study <br/>
 * Letters confirming the review of the case study (Supervisor/Advisor) <br/>
 * Letter confirming approval of the case study (Employer) <br/>
-*Character reference letters
+* Character reference letters
+
