@@ -63,7 +63,7 @@ PPE candidates must read the notice on the **Subsidy for Architectural Practice 
 </tr>
 <tr>
 <td>Total</td>
-<td>S$950.00</td>
+<td>S$850.00</td>
 </tr>
 </table>
 <table class="table-v">
