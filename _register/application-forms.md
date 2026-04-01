@@ -10,10 +10,17 @@ breadcrumb: Forms
 
 **A) Professional Practice Examination (PPE) under Section 15(2)(a) of the Architects Act** 
 
-Architectural graduates, with a recognised qualification in architecture, must apply to be a PPE candidate in order to sit for the Professional Practice Examination (PPE) under Section 15(2)(a).<br/>
-Applications to become a PPE candidate are to be submitted to BOA **via post** with fees made by PayNow/Internet Banking. Please mail the completed application forms with the copies of the supporting documents to the Board of Architects, 5 Maxwell Road, #01-03 Tower Block, MND Complex, Singapore 069110. <br/>
-Applicants are required to come to BOA in person and bring the original educational certificates, academic transcripts, NRIC/Passport, etc. for verification. An officer will contact the applicant upon receipt of the application to arrange for an appointment for the verification.  
-Please note that we do not accept walk-in applications or applications received via emails.
+Architectural graduates possessing a recognised qualification in architecture are required to apply for registration as a PPE candidate prior to being eligible to sit for the Professional Practice Examination (PPE) under Section 15(2)(a).<br/>
+
+_How to apply_ <br/>
+All applications shall be submitted to the Board of Architects (BOA) **by post**. Payment of the prescribed application fee shall be made via PayNow or Internet Banking. <br/>
+Please mail the completed application form, together with copies of all required supporting documents, to the following address: <br/>
+_Board of Architects, 5 Maxwell Road, #01-03 Tower Block, MND Complex, Singapore 069110._<br/>
+
+_Document Verification_<br/>
+Upon receipt of your application, BOA will contact you to arrange an appointment for the verification of original documents. Applicants are required to attend in person and produce their original educational certificates, academic transcripts, NRIC/Passport, and any other supporting documents as may be required. <br/>
+
+Walk-in applications or applications submitted via email will not be accepted.
 
 Guidelines:
 
@@ -27,15 +34,17 @@ Application forms:
 
 [Agreement to be PPE Supervisor & Advisor]({{site.baseurl}}/files/agreement_ppe_supervisor.pdf)
 
+Practical Experience Log Book:
+
+[Practical Experience Log Book]({{site.baseurl}}/forms/Practical_Experience_Logbook.xlsx)
+
+[Sample of Practical Experience Log Book]({{site.baseurl}}/files/Sample_Logbook.pdf)
+
 Quarterly Assessment Reports:
 
 [Quarterly Assessment by Supervisor]({{site.baseurl}}/files/appendix_a_supervisor.doc)
 
 [Quarterly Assessment by Advisor]({{site.baseurl}}/files/appendix_b_advisor.doc)
-
-Sample template of the Log Sheet (Log Book can be purchased from BOA at $16 each):
-
-[Sample template of logsheet]({{site.baseurl}}/files/boa_ppe_logsheet_template.pdf)
 
 **B) Professional Interview under Section 15(2)(b) of the Architects Act**
 
@@ -51,6 +60,11 @@ Application forms:
 
 [Appendix 1 to Part C Practical Experience of Form 1 under Section 15(2)(b)]({{site.baseurl}}/files/application_15_2_b_appendix.pdf)
 
+Practical Experience Log Book:
+
+[Practical Experience Log Book]({{site.baseurl}}/forms/Practical_Experience_Logbook.xlsx)
+
+[Sample of Practical Experience Log Book]({{site.baseurl}}/files/Sample_Logbook.pdf)
 
 **C) Professional Interview under Section 15(2)(c) of the Architects Act**
 
