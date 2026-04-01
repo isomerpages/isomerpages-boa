@@ -25,7 +25,7 @@ permalink: /resources/news/boa-professional-practice-examination-2026
 The following documents must be mailed to the Board of Architects at 5 Maxwell Road # 01-03 Tower Block MND Complex Singapore 069110 via **postal services**. Do **not** drop the application off at our counter or email it to BOA.
 
 (i) [Application form for admission to PPE 2026]({{site.baseurl}}/forms/Application_form_for_PPE_2026.pdf) <br/> 
-(ii) [Application for registration as an Architect]({{site.baseurl}}/files/form_1_application_for_registration.pdf) <br/>
+(ii) [Application for registration as an Architect]({{site.baseurl}}/forms/Form_1_Application_for_Registration.pdf) <br/>
 (iii) 2 copies of qualification papers (such as degree, diploma etc.) <br/>
 (iv) 2 copies of transcript for the above degree/diploma (showing subjects and examination results) <br/>
 (v) 2 character reference letters from the two referees you have stated in _Section E of Form 1 – Application for registration_ <br/>
@@ -40,7 +40,7 @@ PPE Candidates are required to upload the soft copies of the following documents
 (i) Practical Experience Logbook <br/>
 (ii) Professional Case Study <br/>
 
-Please refer to [Annex A]({{site.baseurl}}/files/Annex_A_Notes_PPE2026.pdf) for the **Notes for Submission of the Log Book and Professional Case Study.** 
+Please refer to [Annex A]({{site.baseurl}}/files/annex_a_notes_ppe2026.pdf) for the **Notes for Submission of the Log Book and Professional Case Study.** 
 
 **II) Acknowledgement form for BOA Circular on Subsidy for Architectural Practice Course**<br/>
 
