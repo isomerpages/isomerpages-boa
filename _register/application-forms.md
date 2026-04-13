@@ -32,19 +32,19 @@ Application forms:
 
 [Registration Form for PPE candidate]({{site.baseurl}}/forms/Registration_as_PPE_Candidate.pdf)
 
-[Agreement to be PPE Supervisor & Advisor]({{site.baseurl}}/files/agreement_ppe_supervisor.pdf)
+[Agreement to be PPE Supervisor & Advisor]({{site.baseurl}}/forms/BOA-Agreement-Form-PPE-Supervisor-and-Advisor.docx)
 
 Practical Experience Log Book:
 
-[Practical Experience Log Book]({{site.baseurl}}/forms/Practical_Experience_Logbook.xlsx)
+[Practical Experience Log Book]({{site.baseurl}}/forms/BOA-Practical-Experience-Log-book.xlsx)
 
-[Sample of Practical Experience Log Book]({{site.baseurl}}/files/Sample_Logbook.pdf)
+[Sample of Practical Experience Log Book]({{site.baseurl}}/files/BOA-Sample-PPE-Log-Book.pdf)
 
 Quarterly Assessment Reports:
 
-[Quarterly Assessment by Supervisor]({{site.baseurl}}/files/appendix_a_supervisor.doc)
+[Quarterly Assessment by Supervisor]({{site.baseurl}}/forms/BOA-Appendix-A-QA-Report-Supervisor.docx)
 
-[Quarterly Assessment by Advisor]({{site.baseurl}}/files/appendix_b_advisor.doc)
+[Quarterly Assessment by Advisor]({{site.baseurl}}/forms/BOA-Appendix-B-QA-Report-Advisor.docx)
 
 **B) Professional Interview under Section 15(2)(b) of the Architects Act**
 
@@ -189,3 +189,4 @@ _Upon receipt of all required information, the Board aims to process application
 We accept payment via **PayNow** and **internet banking**. Please refer to the following instructions for payment via PayNow and internet banking:
 
 [Instructions for PayNow and Internet Banking]({{site.baseurl}}/files/Payment_Instructions_BOA.pdf)
+
