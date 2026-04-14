@@ -54,7 +54,7 @@ Submission deadlines are 15 February and 15 August each year. If the deadline fa
 
 Guidelines:
 
-[Guidelines for applicants applying for registration under section 15(2)(b) of the Architects Act]({{site.baseurl}}/ files/guidelines_15_2b.pdf)
+[Guidelines for applicants applying for registration under section 15(2)(b) of the Architects Act]({{site.baseurl}}/files/guidelines_15_2b.pdf)
 
 Application forms:
 
