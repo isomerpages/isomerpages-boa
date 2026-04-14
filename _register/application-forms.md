@@ -50,21 +50,25 @@ Quarterly Assessment Reports:
 
 Applicant must have, after obtaining his/her qualifications, acquired at least 5 years of such practical experience in architectural work as may be recognised by the Board (including not less than 2 years of the prescribed practical experience in architectural work in Singapore with a continuous period of at least 12 months of such prescribed practical experience being acquired within the 5 years immediately preceding the date of the person’s application for registration under this Act)
 
+Submission deadlines are 15 February and 15 August each year. If the deadline falls on a weekend, it will be moved to the preceding weekday. Applicants must email BOA at boa_enquiry@boa.gov.sg to schedule an appointment for submission during the February and August periods.
+
 Guidelines:
 
-[Additional information for registration under section 15(2)(b)]({{site.baseurl}}/files/application_15_2_b_additional_info.pdf)
+[Guidelines for applicants applying for registration under section 15(2)(b) of the Architects Act]({{site.baseurl}}/ files/guidelines_15_2b.pdf)
 
 Application forms:
 
-[Application form for Section 15(2)(b)]({{site.baseurl}}/files/application_15_2_b.pdf)
+[Application form for Section 15(2)(b)]({{site.baseurl}}/forms/application_form_15_2b.pdf)
+
+[Agreement to be PPE Supervisor & Advisor]({{site.baseurl}}/forms/BOA-Agreement-Form-PPE-Supervisor-and-Advisor.docx)
 
 [Appendix 1 to Part C Practical Experience of Form 1 under Section 15(2)(b)]({{site.baseurl}}/files/application_15_2_b_appendix.pdf)
 
 Practical Experience Log Book:
 
-[Practical Experience Log Book]({{site.baseurl}}/forms/Practical_Experience_Logbook.xlsx)
+[Practical Experience Log Book]({{site.baseurl}}/forms/BOA-Practical-Experience-Log-book.xlsx)
 
-[Sample of Practical Experience Log Book]({{site.baseurl}}/files/Sample_Logbook.pdf)
+[Sample of Practical Experience Log Book]({{site.baseurl}}/files/BOA-Sample-PPE-Log-Book.pdf)
 
 **C) Professional Interview under Section 15(2)(c) of the Architects Act**
 
@@ -104,7 +108,7 @@ Application forms:
 
 [Application form for Confirmatory Examination under Section 15(1)(c)]({{site.baseurl}}/files/application_15_1_c.pdf)
 
-Pre-submission Briefing Form: Register [here](https://go.gov.sg/1c-presubmission-briefing)
+Pre-submission Briefing Registration Form: Click [here](https://go.gov.sg/1c-presubmission-briefing) to register
 
 ### **Part II - For firms**
 
@@ -153,7 +157,7 @@ Where an application for a practising certificate authorising the holder thereof
 
 Sample of a Practising Certificate:
 
-[Template of Practising Certificate]({{site.baseurl}}/files/practising_certificate.pdf)
+[Template of Practising Certificate]({{site.baseurl}}/files/sample_pc.pdf)
 
 
 **B) Remove name from BOA Register**
@@ -189,4 +193,3 @@ _Upon receipt of all required information, the Board aims to process application
 We accept payment via **PayNow** and **internet banking**. Please refer to the following instructions for payment via PayNow and internet banking:
 
 [Instructions for PayNow and Internet Banking]({{site.baseurl}}/files/Payment_Instructions_BOA.pdf)
-
