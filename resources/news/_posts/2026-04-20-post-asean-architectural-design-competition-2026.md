@@ -16,7 +16,7 @@ permalink: /resources/news/asean-architectural-design-competition-2026
 
 (3) The competition is open to all architects registered as ASEAN Architects. <br/>  
 
-(4) Architects who are interested to become ASEAN Architects may submit an application for ASEAN Architect registration together with your submission by 30 July 2026.  The application form for ASEAN Architects registration can be downloaded [here](https://www.boa.gov.sg/files/Payment_Instructions_BOA.pdf).<br/>  
+(4) Architects who are interested to become ASEAN Architects may submit an application for ASEAN Architect registration together with your submission by 30 July 2026.  The application form for ASEAN Architects registration can be downloaded [here](https://www.boa.gov.sg/files/asean_architect_registration_form_sg.pdf).<br/>  
 
 **Competition Format**<br/>
 
