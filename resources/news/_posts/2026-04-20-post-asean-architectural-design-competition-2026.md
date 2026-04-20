@@ -16,13 +16,13 @@ permalink: /resources/news/asean-architectural-design-competition-2026
 
 (3) The competition is open to all architects registered as ASEAN Architects. <br/>  
 
-(4) Architects who are interested to become ASEAN Architects may submit an application for ASEAN Architect registration together with your submission by 30 July 2026.  The application form for ASEAN Architects registration can be downloaded [here](https://www.boa.gov.sg/files/Payment_Instructions_BOA.pdf).<br/>  
+(4) Architects who are interested to become ASEAN Architects may submit an application for ASEAN Architect registration together with your submission by 30 July 2026.  The application form for ASEAN Architects registration can be downloaded [here](https://www.boa.gov.sg/files/asean_architect_registration_form_sg.pdf).<br/>  
 
 **Competition Format**<br/>
 
 (5) The competition adopts a unified international format designed to celebrate talent while fostering regional engagement.  Submissions from all participating member states will be evaluated at the international level, encouraging a broader discourse on innovation, identity, and sustainable urban design across the region. <br/>
 
-(6) Each participant will be given a unique eight (8)-digit identification code which shall serve as the sole identifier for all submission materials.  Participants must not include their name, affiliation, or any other identifying information within the submission.  Please indicate your interest and submit any enquiries you may have between 30 April and 8 May to receive the identification code.<br/>
+(6) Each participant will be given a unique eight (8)-digit identification code which shall serve as the sole identifier for all submission materials.  Participants must not include their name, affiliation, or any other identifying information within the submission.  Please indicate your interest and submit any enquiries you may have between 30 April to 8 May to receive the identification code.<br/>
 
 (7) All submissions are to be made through a dedicated, individualised submission link provided to each participant.  Each link is unique, permits one (1) submission only, and must not be shared with others. <br/>
 
