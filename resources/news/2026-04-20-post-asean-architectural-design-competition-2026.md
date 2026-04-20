@@ -2,7 +2,7 @@
 layout: post
 title: "The ASEAN Architectural Design Competition 2026"
 date: 2026-04-20
-permalink: /resources/news/cpdframework/
+permalink: /resources/news/asean-architectural-design-competition-2026
 ---
 20 Apr 2026
 
