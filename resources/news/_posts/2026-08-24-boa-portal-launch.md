@@ -22,7 +22,7 @@ Administrative charges will be waived for eligible updates made during the waive
 
 For updates that ordinarily require an administrative charge, the “Proceed to Payment” button will still appear due to system configuration. Please click “Proceed to Payment” to continue. No payment is required. <br/>    
 
-_Note: During the trial period, you will not be able to download a copy of the revised practising certificate/licence for the current year via the portal. Please click on this [link](https://go.gov.sg/update-pc-licence-2026) to complete the practising certificate/licence request form if you wish to obtained the revise certificate._  
+_Note: During the trial period, you will not be able to download a copy of the revised practising certificate/licence for the current year via the portal. Please click on this [link](https://go.gov.sg/update-pc-licence-2026) to complete the practising certificate/licence request form if you wish to obtain the revised certificate._  
 
 **Applications for Practising Certificates (Year 2027)** <br/>    
 
