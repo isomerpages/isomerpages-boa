@@ -14,13 +14,14 @@ The Board of Architects ("the Board") is pleased to announce the launch of its n
 **Verification and Update of Particulars**<br/>   
 All registered architects and architectural firms are invited to log in to the new BOA Portal between **now till 30 September 2026** to verify and update their registered particulars. This is an important step to ensure that the Board's records are accurate and up to date. <br/>    
 Registered particulars may be accessed by clicking on the profile icon on the top right-hand corner of the page after logging in. <br/>    
-Administrative charges will be waived for updates made during this period. For updates that would ordinarily require payment of administrative charges, please click to proceed with the payment. The payment page will be skipped during the waiver period. <br/>    
+Administrative charges will be waived for eligible updates made during the waiver period. <br/>    
+For updates that ordinarily require an administrative charge, the “Proceed to Payment” button will still appear due to system configuration. Please click “Proceed to Payment” to continue. No payment is required. <br/>    
 **Applications for Practising Certificates (Year 2027)** <br/>    
 The application window for the Practicing Certificates for the year 2027 will open on **1 November 2026**. All applications for Practising Certificates are to be submitted through the new BOA Portal.<br/>    
 Registered architects are reminded that the annual deadline for submission is 1 December 2026. Applications received after this date will be subject to a late payment fee. <br/>     
-For guidance on using the new Portal, please refer the following instructional guides:<br/>  
-[For Individual User]({{site.baseurl}}/files/BOA_Portal_Guide_Individual.pdf) <br/>  
-[For Business/Corporate User]({{site.baseurl}}/files/BOA_Portal_Guide_Business.pdf) <br/>   
+For guidance on using the new Portal, please refer the following instructional guides: <br/>  
+[For Individual User]({{site.baseurl}}/files/BOA_Portal_Guide_Individual.pdf) <br/>   
+[For Business/Corporate User]({{site.baseurl}}/files/BOA_Portal_Guide_Business.pdf) <br/>  
 
 
 **Applications for Licences by Licensed Corporations and Limited Liability Partnerships** <br/>    
